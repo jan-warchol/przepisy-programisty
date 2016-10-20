@@ -16,6 +16,8 @@
 
 paczka okrągłych biszkoptów (ok. 100-120g, zależnie od rozmiaru tortownicy)
 
+Opcjonalnie dodatek aromatu cytrynowego albo pomarańczowego
+
 *Uwaga: rodzaj użytego sera ma duże znaczenie. Najbardziej lubię używać twarogu zmielonego z Wielunia, który jest dość gęsty i słodki - wtedy żeby dodać mu charakteru i rozrzedzić go dodaję kwaśnej śmietany (w proporcji 3:1). Jeśli Twój ser jest sam z siebie dość kwaśny, użyj słodkiej śmietanki, a proporcje ser-śmietana dobierz w zależności od gęstości sera.*
 
 *Oczywiście należy unikać słonych serów (takich jak mają w USA, np. Philadelphia). W 1kg sera powinno być nie więcej niż 600 mg sodu (=1500 mg soli).*
