@@ -26,9 +26,9 @@ Opcjonalnie dodatek aromatu cytrynowego albo pomarańczowego
 
 ## Składniki na polewę
 
-60g czekolady mlecznej
+50g czekolady mlecznej
 
-40g czekolady gorzkiej
+100g czekolady gorzkiej
 
 100g śmietanki 30% lub 36% (słodkiej)
 
