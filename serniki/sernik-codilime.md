@@ -38,7 +38,7 @@ wiórki kokosowe
 
 ## Procedura
 
-Wyjąć Kasię/masło z lodówki wcześniej żeby zmiękła.
+Wyjąć składniki z lodówki godzinę wcześniej.
 
 Dno tortownicy wyłożyć papierem do pieczenia (lub posmarować tłuszczem), ułożyć na dnie jedną warstwę biszkoptów.
 
