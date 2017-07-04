@@ -1,7 +1,7 @@
 Składniki
 ---------
 
-- 5 dużych białek
+- 5 dużych białek (200g)
 - 200g cukru drobnoziarnistego do wypieków
 - 100ml mleka
 - 50g miodu
@@ -10,6 +10,7 @@ Składniki
 - płaska łyżeczka cynamonu
 - 50g kandyzowanej skórki pomarańczowej
 - 50g rodzynek
+- 50g tartych orzechów laskowych lub włoskich
 - 200g śmietanki 30% lub 36%
 - 500g serka mascarpone
 - 250g dżemu porzeczkowego (lub innego słodko-kwaśnego)
