@@ -3,16 +3,19 @@ Składniki
 
 - 5 dużych białek
 - 200g cukru drobnoziarnistego do wypieków
+- 100ml mleka
+- 50g miodu
+- 20g masła
 - 100g zmielonego maku
+- płaska łyżeczka cynamonu
 - 50g kandyzowanej skórki pomarańczowej
 - 50g rodzynek
-- płaska łyżeczka cynamonu
-- 50g miodu
-- 100ml mleka
-- 500g serka mascarpone
 - 200g śmietanki 30% lub 36%
+- 500g serka mascarpone
 - 250g dżemu porzeczkowego (lub innego słodko-kwaśnego)
-- kakao do posypania
+- około łyżki kakao
+
+
 
 Sprzęt
 ------
@@ -23,12 +26,55 @@ Sprzęt
 - sitko
 - papier do pieczenia
 
+
+
 Przygotowanie
 -------------
+
+Nastawić piekarnik na 100 stopni z termoobiegiem.
+
+Dokładnie oddzielić żółtka od białek. Ubić białka w metalowej misce, dodając
+łyżka po łyżce cukier. Wyłożyć pianę na dwie blachy, uformować dwa okręgi o
+średnicy 28 cm lub kwadraty o boku 25 cm.
+
+Piec przynajmniej 3 godziny. Tak naprawdę można zostawić w piekarniku dowolnie
+długo, przy temperaturze 100 stopni beza nie może się spalić. Im dłużej będzie
+pieczona, tym mniejsza szansa że w środku zostanie klejący się cukrowy glut.
+
+Do rondelka o grubym dnie (lub garnka na mleko) wlać mleko, masło i miód.
+Podgrzewać do rozpuszczenia masła. Dodać mak i cynamon, podgrzewać aż do
+zagotowania ciągle mieszając. Po wyłączeniu ognia dodać rodzynki, skórkę
+pomarańczową i orzechy.
+
+Śmietankę ubić w wąskim naczyniu, najlepiej metalowym i schłodzonym w lodówce.
+Wymieszać z mascarpone.
+
+Masa makowa jest zbyt gęsta, żeby wykładać ją bezpośrednio na bezę. Należy
+wyłożyć ją na papier do pieczenia i "rozwałkować" w taki sam kształt, jaki ma
+blat bezowy (np. łopatką do ciasta). Na tak rozprowadzoną masę położyć do góry
+nogami blat, odwrócić (podtrzymując od spodu papier do pieczenia) i odkleić
+papier.
+
+Na to wyłożyć krem mascarpone i wyrównać łopatką do ciasta.
+
+Dżem zamieszać (żeby lepiej się smarował) i wyłożyć na spodnią stronę
+wierzchniego blatu bezowego. Przełożyć wierzchni blat na krem. Na koniec
+oprószyć niezbyt grubą warstwą kakao.
+
+
 
 Podanie
 -------
 
-Najlepiej kroić na 2-3 centymetrowe paski i podawać przewrócone na bok (wtedy
-przy dzieleniu kawałka widelcem nie rozgniata się go na paćkę).
+Należy podać zaraz po przełożeniu. Beza będzie ciągnęła wilgoć z przełożenia i
+jeśli nie zostanie zjedzona od razu zrobi się gumowa.
 
+Najlepiej kroić na 2-3 centymetrowe paski i podawać przewrócone na bok (wtedy
+przy dzieleniu kawałka widelcem nie rozgniata się go).
+
+
+
+Różne uwagi
+-----------
+
+Z żółtek można zrobić budyń albo lemon curd.
