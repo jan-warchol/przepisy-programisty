@@ -34,13 +34,19 @@ Przygotowanie
 
 Nastawić piekarnik na 100 stopni z termoobiegiem.
 
-Dokładnie oddzielić żółtka od białek. Ubić białka w metalowej misce, dodając
-łyżka po łyżce cukier. Wyłożyć pianę na dwie blachy, uformować dwa okręgi o
-średnicy 28 cm lub kwadraty o boku 25 cm.
+Dokładnie oddzielić żółtka od białek. W metalowej misce ubić białka na sztywną
+pianę. Dodawać łyżka po łyżce cukier, dalej ubijając, aż cukier zupełnie się
+rozpuści i nie będzie wyczuwalny w dotyku.
 
-Piec przynajmniej 3 godziny. Tak naprawdę można zostawić w piekarniku dowolnie
-długo, przy temperaturze 100 stopni beza nie może się spalić. Im dłużej będzie
-pieczona, tym mniejsza szansa że w środku zostanie klejący się cukrowy glut.
+Dwie blachy wyłożyć papierem do pieczenia i narysować na nim kwadraty o boku 25
+cm (lub ewentualnie okręgi o średnicy 28 cm).  Wyłożyć pianę, wyrównać
+szpatułką. Wierzchni blat może być trochę cieńszy i fantazyjnie pofalowany.
+
+Piec w 100 stopniach przynajmniej 3 godziny, najlepiej 5. Tak naprawdę można
+zostawić w piekarniku dowolnie długo, przy temperaturze 100 stopni beza się nie
+spali. Im dłużej będzie pieczona, tym mniejsza szansa że w środku zostanie
+klejący się cukrowy glut. Po upływie czasu pieczenia zostawić do wystygnięcia w
+zamkniętym piekarniku.
 
 Do rondelka o grubym dnie (lub garnka na mleko) wlać mleko, masło i miód.
 Podgrzewać do rozpuszczenia masła. Dodać mak i cynamon, podgrzewać aż do
@@ -50,17 +56,27 @@ pomarańczową i orzechy.
 Śmietankę ubić w wąskim naczyniu, najlepiej metalowym i schłodzonym w lodówce.
 Wymieszać z mascarpone.
 
+Wszystkie te półprodukty można przygotować dzień wcześniej. Masę makową i krem
+przechowywać w lodówce, blaty bezowe najlepiej trzymać w zamkniętym piekarniku
+lub innym szczelnym pojemniku (w przeciwnym razie nasiąkną wilgocią z powietrza
+i przestaną być kruche).
+
+
+
+Przełożenie
+-----------
+
 Masa makowa jest zbyt gęsta, żeby wykładać ją bezpośrednio na bezę. Należy
 wyłożyć ją na papier do pieczenia i "rozwałkować" w taki sam kształt, jaki ma
 blat bezowy (np. łopatką do ciasta). Na tak rozprowadzoną masę położyć do góry
 nogami blat, odwrócić (podtrzymując od spodu papier do pieczenia) i odkleić
 papier.
 
-Na to wyłożyć krem mascarpone i wyrównać łopatką do ciasta.
+Na to wyłożyć krem, wyrównać.
 
 Dżem zamieszać (żeby lepiej się smarował) i wyłożyć na spodnią stronę
 wierzchniego blatu bezowego. Przełożyć wierzchni blat na krem. Na koniec
-oprószyć niezbyt grubą warstwą kakao.
+oprószyć niezbyt grubą warstwą kakao, najlepiej przesiewając przez sitko.
 
 
 
@@ -78,4 +94,4 @@ przy dzieleniu kawałka widelcem nie rozgniata się go).
 Różne uwagi
 -----------
 
-Z żółtek można zrobić budyń albo lemon curd.
+Z nadmiarowych żółtek można zrobić budyń albo lemon curd.
