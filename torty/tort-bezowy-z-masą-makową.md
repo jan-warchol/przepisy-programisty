@@ -30,17 +30,6 @@ Można też użyć gotowej masy z puszki.
 
 
 
-Sprzęt
-------
-
-- metalowa miska
-- mikser
-- piekarnik
-- sitko
-- papier do pieczenia
-
-
-
 Przygotowanie
 -------------
 
