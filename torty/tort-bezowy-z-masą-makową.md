@@ -1,12 +1,12 @@
 Składniki
 ---------
 
-### Beza
+#### Beza
 
 - 5 dużych białek (200g)
 - 200g cukru drobnoziarnistego do wypieków
 
-### Masa makowa
+#### Masa makowa
 
 - 100ml mleka
 - 50g miodu
@@ -19,11 +19,11 @@ Składniki
 
 Można też użyć gotowej masy z puszki.
 
-### Krem
+#### Krem
 - 200g śmietanki 30% lub 36%
 - 500g serka mascarpone
 
-### Dodatki
+#### Dodatki
 
 - 250g dżemu porzeczkowego (lub innego słodko-kwaśnego)
 - około łyżki kakao
