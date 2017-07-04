@@ -4,9 +4,9 @@
 - 200-400 g śmietany lub śmietanki (patrz komentarz poniżej)
 - 5 dużych jajek (klasa wagowa 63-73 g)
 - 1/2 kostki Kasi lub masła
-- 1 szkl. cukru (220g)
+- 1 szkl. drobnego cukru do wypieków (220g)
 - łyżeczka cukru waniliowego
-- 1 budyń waniliowy (40g)
+- 1 budyń waniliowy bez cukru (40g)
 - paczka okrągłych biszkoptów (ok. 100-120g, zależnie od rozmiaru tortownicy)
 - Opcjonalnie dodatek aromatu cytrynowego albo pomarańczowego
 
