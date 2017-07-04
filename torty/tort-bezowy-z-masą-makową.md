@@ -1,8 +1,13 @@
 Składniki
 ---------
 
+### Beza
+
 - 5 dużych białek (200g)
 - 200g cukru drobnoziarnistego do wypieków
+
+### Masa makowa
+
 - 100ml mleka
 - 50g miodu
 - 20g masła
@@ -11,8 +16,15 @@ Składniki
 - 50g kandyzowanej skórki pomarańczowej
 - 50g rodzynek
 - 50g tartych orzechów laskowych lub włoskich
+
+Można też użyć gotowej masy z puszki.
+
+### Krem
 - 200g śmietanki 30% lub 36%
 - 500g serka mascarpone
+
+### Dodatki
+
 - 250g dżemu porzeczkowego (lub innego słodko-kwaśnego)
 - około łyżki kakao
 
