@@ -20,6 +20,6 @@ niezrozumiałe, proszę o kontakt (najlepiej przez otwarcie
 
 ### Kto to jest Pan Deser?
 
-To moje przezwisko w [CodiLime](codilime.com), gdzie pracuję. Tak często
-przynoszę do pracy różne smakołyki, że wszyscy mówią na mnie "Pan Deser",
-i nawet dostałem nieoficjalnie stanowisko Chief Baking Officer ;-)
+To moje przezwisko w [CodiLime](https://www.codilime.com/), gdzie pracuję. Tak
+często przynoszę do pracy różne smakołyki, że wszyscy mówią na mnie "Pan
+Deser", i nawet dostałem nieoficjalnie stanowisko Chief Baking Officer ;-)
