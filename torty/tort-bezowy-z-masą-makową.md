@@ -33,6 +33,8 @@ Można też użyć gotowej masy z puszki.
 Przygotowanie
 -------------
 
+#### Beza
+
 Nastawić piekarnik na 100 stopni z termoobiegiem.
 
 Dokładnie oddzielić żółtka od białek. W metalowej misce ubić białka na sztywną
@@ -49,10 +51,14 @@ spali. Im dłużej będzie pieczona, tym mniejsza szansa że w środku zostanie
 klejący się cukrowy glut. Po upływie czasu pieczenia zostawić do wystygnięcia w
 zamkniętym piekarniku.
 
+#### Masa makowa
+
 Do rondelka o grubym dnie (lub garnka na mleko) wlać mleko, masło i miód.
 Podgrzewać do rozpuszczenia masła. Dodać mak i cynamon, podgrzewać aż do
 zagotowania ciągle mieszając. Po wyłączeniu ognia dodać rodzynki, skórkę
 pomarańczową i orzechy.
+
+#### Krem
 
 Śmietankę ubić w wąskim naczyniu, najlepiej metalowym i schłodzonym w lodówce.
 Wymieszać z mascarpone.
