@@ -14,7 +14,7 @@ Składniki
 #### Masa makowa
 
 - 100ml mleka
-- 50g miodu
+- 50g miodu (użyłem wielokwiatowego)
 - 20g masła
 - 100g zmielonego maku
 - płaska łyżeczka cynamonu
@@ -22,15 +22,16 @@ Składniki
 - 50g rodzynek
 - 50g tartych orzechów laskowych lub włoskich
 
-Można też użyć gotowej masy z puszki.
+Prawdopodobnie można też użyć gotowej masy z puszki, ale nie testowałem jeszcze
+tej opcji.
 
 #### Krem
-- 200g śmietanki 30% lub 36%
-- 500g serka mascarpone
+- 200g śmietanki 30% lub 36% (użyłem Zott 30%)
+- 500g serka mascarpone (użyłem włoskiego Galbani)
 
 #### Dodatki
 
-- 250g dżemu porzeczkowego (lub innego słodko-kwaśnego)
+- 250g dżemu porzeczkowego niskosłodzonego (użyłem Łowicza)
 - około łyżki kakao
 
 
@@ -52,7 +53,7 @@ szpatułką. Wierzchni blat może być trochę cieńszy i fantazyjnie pofalowany
 
 Piec w 100 stopniach przynajmniej 3 godziny, najlepiej 5. Tak naprawdę można
 zostawić w piekarniku dowolnie długo, przy temperaturze 100 stopni beza się nie
-spali. Im dłużej będzie pieczona, tym mniejsza szansa że w środku zostanie
+spali. Im dłużej będzie pieczona, tym mniejsza szansa, że w środku zostanie
 klejący się cukrowy glut. Po upływie czasu pieczenia zostawić do wystygnięcia w
 zamkniętym piekarniku.
 
@@ -60,7 +61,7 @@ zamkniętym piekarniku.
 
 Do rondelka o grubym dnie (lub garnka na mleko) wlać mleko, masło i miód.
 Podgrzewać do rozpuszczenia masła. Dodać mak i cynamon, podgrzewać aż do
-zagotowania ciągle mieszając. Po wyłączeniu ognia dodać rodzynki, skórkę
+zagotowania, ciągle mieszając. Po wyłączeniu ognia dodać rodzynki, skórkę
 pomarańczową i orzechy.
 
 #### Krem
@@ -96,10 +97,10 @@ Podanie
 -------
 
 Należy podać zaraz po przełożeniu. Beza będzie ciągnęła wilgoć z przełożenia i
-jeśli nie zostanie zjedzona od razu zrobi się gumowa.
+jeśli nie zostanie zjedzona od razu, zrobi się gumowa.
 
 Najlepiej kroić na 2-3 centymetrowe paski i podawać przewrócone na bok (wtedy
-przy dzieleniu kawałka widelcem nie rozgniata się go).
+przy dzieleniu kawałka widelcem krem nie wypływa na boki).
 
 
 
