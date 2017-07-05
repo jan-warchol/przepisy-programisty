@@ -45,8 +45,7 @@ Wyjąć składniki z lodówki godzinę wcześniej.
 Dno tortownicy wyłożyć papierem do pieczenia (lub posmarować tłuszczem), ułożyć
 na dnie jedną warstwę biszkoptów.
 
-Oddzielić żółtka od białek, uważając aby do białek nie dostała się więcej niż
-kropla żółtka.
+Dokładnie oddzielić żółtka od białek.
 
 Żółtka utrzeć z cukrem i cukrem waniliowym na puszystą masę, dodać tłuszcz
 (jeśli będzie miękki, nie trzeba go kroić), ucierać, następnie budyń (proszek)
