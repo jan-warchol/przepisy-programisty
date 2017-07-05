@@ -1,3 +1,7 @@
+Sernik nazwany na cześć firmy [CodiLime](https://www.codilime.com/), w której
+pracuję, i która finansuje badania nad tym przepisem (zjedli już kilkanaście
+sztuk ^^)
+
 ## Składniki na dużą tortownicę (26-29 cm średnicy)
 
 - 800-1000 g sera (patrz komentarz poniżej)
