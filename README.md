@@ -1,6 +1,10 @@
 Nerdowskie przepisy informatyka
 -------------------------------
 
+*Uwaga: repozytorium jest w fazie alfa. Pierwsze propozycje przepisów są w
+[osobnych gałęziach](https://github.com/jan-warchol/pan-deser/branches) i
+czekają na [review](https://github.com/jan-warchol/pan-deser/pulls).*
+
 ### Co to jest?
 
 Moim celem jest stworzenie książki kucharskiej z przepisami tak dokładnymi, że
