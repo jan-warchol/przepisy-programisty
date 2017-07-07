@@ -54,8 +54,8 @@ szpatułką. Wierzchni blat może być trochę cieńszy i fantazyjnie pofalowany
 Piec w 100 stopniach przynajmniej 3 godziny, najlepiej 5. Tak naprawdę można
 zostawić w piekarniku dowolnie długo, przy temperaturze 100 stopni beza się nie
 spali. Im dłużej będzie pieczona, tym mniejsza szansa, że w środku zostanie
-klejący się cukrowy glut. Po upływie czasu pieczenia zostawić do wystygnięcia w
-zamkniętym piekarniku.
+klejący się cukrowy glut. Po upływie czasu pieczenia zostawić do wystygnięcia
+w zamkniętym piekarniku.
 
 #### Masa makowa
 
@@ -96,8 +96,8 @@ oprószyć niezbyt grubą warstwą kakao, najlepiej przesiewając przez sitko.
 Podanie
 -------
 
-Należy podać zaraz po przełożeniu. Beza będzie ciągnęła wilgoć z przełożenia i
-jeśli nie zostanie zjedzona od razu, zrobi się gumowa.
+Należy podać zaraz po przełożeniu. Beza będzie ciągnęła wilgoć z przełożenia
+i, jeśli nie zostanie zjedzona od razu, zrobi się gumowa.
 
 Najlepiej kroić na 2-3 centymetrowe paski i podawać przewrócone na bok (wtedy
 przy dzieleniu kawałka widelcem krem nie wypływa na boki).
