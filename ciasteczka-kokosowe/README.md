@@ -1,27 +1,27 @@
 Ciasteczka ryżowo-kokosowe
 ==========================
 
-_Wg przepisu Asi Czerwińskiej_
+_wg przepisu Asi Czerwińskiej_
 
 Składniki
 ---------
 
-* 1 opakowanie kleiku ryżowego (nie smakowego!) (?g)
+* 1 opakowanie kleiku ryżowego (nie smakowego!) (160 g)
+* 1 szklanka cukru (220 g)
+* 50 g wiórków kokosowych
+* 1 cukier waniliowy (15 g)
+* 1 płaska łyżeczka proszku do pieczenia
 * 1 kostka masła (200 g)
-* 3 jajka (?g)
-* 1 szklanka cukru (?g)
-* wiórki kokosowe na oko - zapewne 6-8 łyżeczek (?g)
-* 1 cukier waniliowy (?g)
-* 1 łyżeczka proszku do pieczenia
+* 3 średnie jajka (ok. 180 g)
 * (opcjonalnie) dżem do dekoracji
 
 Przygotowanie
 -------------
 
+* masło wyjąć z lodówki wcześniej żeby trochę zmiękło
 * wymieszać wszystkie suche składniki
-* dodać posiekane masło,
-* dodać jajka, zagnieść ręcznie
-* uformować ciasteczka; na środku każdego można zrobić wklęśnięcie
-* piec 15-20 minut w piekarniku nagrzanym do 180 stopni (bez termoobiegu)
-* po 10 minutach zmienić temperaturę na 160 stopni i włączyć termoobieg (ten krok może nie mieć znaczenia)
+* dodać posiekane masło
+* dodać jajka, zagnieść
+* uformować ciasteczka (spłaszczone kulki o wymiarach ok. 4 x 4 x 2 cm)
+* piec 15 minut w piekarniku nagrzanym do 160 stopni, z termoobiegiem
 * przed podaniem można udekorować dżemem

@@ -28,3 +28,5 @@ Może na kiedyś, ale to mało istotne.
     * czy jest różnica
     * czy wstawiać symetrycznie czy bardziej z góry
 * wpływ grubości na smak (płaskie vs kulki)
+* rodzaj cukru (czy cukier gruboziarnisty da takie same wyniki?)
+* ilość jajek (2 vs 4)
