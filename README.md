@@ -1,9 +1,9 @@
-Nerdowskie przepisy informatyka
--------------------------------
+Książka kucharska ze szczyptą nauki
+-----------------------------------
 
-*Uwaga: repozytorium jest w fazie alfa. Pierwsze propozycje przepisów są w
-[osobnych gałęziach](https://github.com/jan-warchol/pan-deser/branches) i
-czekają na [review](https://github.com/jan-warchol/pan-deser/pulls).*
+*Uwaga: repozytorium jest w fazie alfa.*
+
+*For English, click [here](README-en.md).*
 
 ### Co to jest?
 
@@ -15,11 +15,12 @@ przepis na *jakąś* bezę, *jakiś* sernik, *jakąś* polewę czekoladową - ch
 zgłębić temat i opisać, jak zmiana poszczególnych czynników wpływa na efekt
 końcowy, jak przeciwdziałać często występującym problemom itp.
 
-### Dlaczego wrzucasz przepisy na githuba?
+### Dlaczego repozytorium na GitHubie?
 
-Żeby było śmiesznie :-) Poza tym:
-- chcę pokazać, jak ewoluują
-- chcę, żeby każdy mógł wysłać propozycje poprawek i nowych przepisów
+* ciągle udoskonalam te przepisy i chcę mieć kompletną historię zmian
+* potrzebuję platformy do dyskusji nad wprowadzanymi udoskonaleniami
+* chcę zachęcić czytelników do sugerowania poprawek w duchu Open Source
+* tak jest śmiesznie :-)
 
 ### Zmiany w przepisach i dodawanie nowych
 
@@ -41,9 +42,9 @@ Koniecznie [otwórz issue](https://github.com/jan-warchol/pan-deser/issues/new)
 i opisz, co się stało. Postaram się poprawić przepis tak, żeby następnym razem
 było doskonałe.
 
-### Kto to jest Pan Deser?
+### Dlaczego Pan Deser?
 
-To moje przezwisko w [CodiLime](https://www.codilime.com/), gdzie pracuję jako
-Deployment Engineer. Tak często przynoszę do pracy różne smakołyki, że wszyscy
-mówią na mnie "Pan Deser", i nawet dostałem nieoficjalnie stanowisko *Chief
-Baking Officer* ;-)
+To moje przezwisko w [CodiLime](https://www.codilime.com/), gdzie pracowałem
+jako Deployment Engineer. Tak często przynosiłem do pracy różne smakołyki, że
+koledzy mówili na mnie "Pan Deser", i nawet dostałem nieoficjalnie stanowisko
+*Chief Baking Officer* ;-)
