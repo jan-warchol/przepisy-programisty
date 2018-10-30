@@ -6,7 +6,7 @@ _recipe by Asia Czerwińska_
 Ingredients
 -----------
 
-* 1 pack of rice gruel (not flavored!) (160 g)
+* 1 pack of rice porridge (not flavored!) (160 g)
 * 1 cup of sugar (220 g)
 * 50 g of coconut flakes
 * 1 vanilla sugar (15 g)
@@ -24,6 +24,5 @@ Steps
 * add chopped butter
 * add eggs, knead
 * form cookies (flattened balls, approx. 4 x 4 x 2 cm)
-* bake 15 minutes in an oven preheated to 160 degrees Celsius, with hot air
-  circulation
+* bake 15 minutes in a fan assisted oven preheated to 160 degrees Celsius
 * you may decorate with jam before serving   
