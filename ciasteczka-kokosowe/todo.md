@@ -10,6 +10,8 @@ Składniki
 Przygotowanie
 -------------
 
+* czy jest różnica w smaku zależnie od tego, jaką temperaturę miało masło? A
+  może ciasto należy schłodzić?
 * czy można wyjmować z piekarnika natychmiast po zakończeniu pieczenia?
 * czy jeśli upiekę dwie partie z jednego ciasta jedna natychmiast po drugiej to
   nadal będzie czuć różnicę w smaku?

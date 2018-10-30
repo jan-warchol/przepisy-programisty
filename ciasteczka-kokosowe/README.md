@@ -18,7 +18,7 @@ Składniki
 Przygotowanie
 -------------
 
-* masło wyjąć z lodówki wcześniej żeby trochę zmiękło
+* masło wyjąć z lodówki około pół godziny wcześniej żeby trochę zmiękło
 * wymieszać wszystkie suche składniki
 * dodać posiekane masło
 * dodać jajka, zagnieść
