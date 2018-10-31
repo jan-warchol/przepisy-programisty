@@ -3,6 +3,8 @@ Ciasteczka ryżowo-kokosowe
 
 _wg przepisu Asi Czerwińskiej_
 
+_for English translation click [here](README-en.md)_
+
 Składniki
 ---------
 
