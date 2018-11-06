@@ -1,7 +1,7 @@
 Ciasteczka ryżowo-kokosowe
 ==========================
 
-_wg przepisu Asi Czerwińskiej_
+_wg przepisu Asi Czerwińskiej, z uściśleniami ode mnie_
 
 _for English translation click [here](README-en.md)_
 
