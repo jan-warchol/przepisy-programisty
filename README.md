@@ -1,9 +1,10 @@
+🌍
+*[Polski](README.md) ∙ [English](README-en.md)*
+
 Książka kucharska ze szczyptą nauki
 -----------------------------------
 
 *Uwaga: repozytorium jest w fazie alfa.*
-
-*For English, click [here](README-en.md).*
 
 ### Co to jest?
 

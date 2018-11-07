@@ -1,3 +1,6 @@
+🌍
+*[Polski](README.md) ∙ [English](README-en.md)*
+
 Geeky recipes
 -------------
 

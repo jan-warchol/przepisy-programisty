@@ -1,9 +1,10 @@
+🌍
+*[Polski](README.md) ∙ [English](README-en.md)*
+
 Ciasteczka ryżowo-kokosowe
 ==========================
 
 _wg przepisu Asi Czerwińskiej, z uściśleniami ode mnie_
-
-_for English translation click [here](README-en.md)_
 
 Składniki
 ---------
