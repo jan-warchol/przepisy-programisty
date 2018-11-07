@@ -6,6 +6,7 @@ Składniki
 * zawartość masła (2/3 kostki vs 4/3 kostki)
 * ilość cukru (170 g vs 270 g) - niektórzy mówią, że obecne są za słodkie
 * ilość wiórków c.d. (45 g vs 90 g)
+* wersja wegańska - margaryna zamiast masła, banan zamiast jajek
 
 Przygotowanie
 -------------

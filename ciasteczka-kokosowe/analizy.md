@@ -7,6 +7,8 @@ Wnioski
   piekarniku)
 * lepiej nie spłaszczać kulek ciasta jednym palcem, bo robią się pęknięcia i
   potem ciastka się rozlewają i rozłażą
+* jeśli wstawi się drugą partię natychmiast po zakończeniu pieczenia pierwszej,
+  to wyniki są wystarczająco spójne żeby można było wykorzystać to do testów.
 
 
 
@@ -78,3 +80,27 @@ Wyniki
 * Ciastka z górnej i dolnej blachy upiekły się podobnie
 * w obu partiach wyszło po 29 ciastek
 
+
+#4 2018-11-07
+-------------
+
+Ponowny test na leżakowanie ciasta.
+
+Parametry
+
+* 50 g wiórków
+* 20 min, 160 st., termoobieg
+* wyjęcie natychmiast po skończeniu pieczenia
+* druga partia wstawiona natychmiast po pierwszej
+* minimalnie mniejsze ciastka (w sumie 32)
+
+Wyniki
+
+* głosy rozdzielone po równo (5 na 1. partię, 5 na 2., 3 "brak różnicy")
+* niektórzy twierdzili, że pierwsza partia jest suchsza, inni że druga. Moim
+  zdaniem świadczy to o tym, że różnice są niewielkie (i że różnice wewnątrz
+  partii - rozmieszczenie na blasze) zaczynają wchodzić w grę
+* kilka osób stwierdziło że pierwsza partia była bardziej słodka
+* jedna osoba zwróciła uwagę na to, że obie partie z tego podejścia były
+  suchsze niż poprzednie podejścia, z czym się zgadzam. Wilgotniejsze były
+  lepsze.
