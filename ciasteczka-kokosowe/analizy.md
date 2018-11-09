@@ -104,3 +104,26 @@ Wyniki
 * jedna osoba zwróciła uwagę na to, że obie partie z tego podejścia były
   suchsze niż poprzednie podejścia, z czym się zgadzam. Wilgotniejsze były
   lepsze.
+
+
+#5 2018-11-09
+-------------
+
+Pierwszy test wersji wegańskiej.
+
+Parametry
+
+* 50 g wiórków
+* zamiast jajek 245 g banana (dojrzałość 7/15)
+* zamiast masła 200 g margaryny Solla
+* 19 min (po 15 były bardzo blade), 160 st., termoobieg
+
+Wyniki
+
+* masa była bardzo lepka i trochę rzadsza niż wersja tradycyjna
+* ciastka mniej urosły (chociaż proszku do pieczenia było tyle samo)
+* mniej chropowata powierzchnia
+* w smaku wyraźnie bananowe (ja akurat nie lubię, ale innym smakowało)
+* wg kilku osób za słodkie (wymiana jajek na banana zwiększa ilość cukru)
+* w środku mokre (powiedziałbym, że trochę niedopieczone), ale nie w taki
+  sposób jak wersja niewegańska; mniej kruche
