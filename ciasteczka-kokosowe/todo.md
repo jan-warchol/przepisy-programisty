@@ -7,6 +7,8 @@ Składniki
 * ilość cukru (170 g vs 270 g) - niektórzy mówią, że obecne są za słodkie
 * ilość wiórków c.d. (45 g vs 90 g)
 * wersja wegańska - margaryna zamiast masła, banan zamiast jajek
+* czy można wymienić proszek do pieczenia na sodę oczyszczoną, żeby uzyskać w
+  pełni bezglutenową wersję? (proszek którego używam ma w składzie mąkę)
 
 Przygotowanie
 -------------
