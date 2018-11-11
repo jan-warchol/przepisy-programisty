@@ -27,6 +27,7 @@ Niski priorytet
 
 Może na kiedyś, ale to mało istotne.
 
+* może dodać trochę soli (sugestia mamy Ani)
 * wpływ i ilość proszku do pieczenia
 * znaczenie cukru wanilinowego (2 op vs 0)
 * pozycja w piekarniku przy pieczeniu na dwie blachy

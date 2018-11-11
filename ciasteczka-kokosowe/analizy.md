@@ -127,3 +127,29 @@ Wyniki
 * wg kilku osób za słodkie (wymiana jajek na banana zwiększa ilość cukru)
 * w środku mokre (powiedziałbym, że trochę niedopieczone), ale nie w taki
   sposób jak wersja niewegańska; mniej kruche
+
+
+#6 2018-11-11
+-------------
+
+Drugi test wersji wegańskiej, pieczony u Ani Banachowicz
+
+Parametry
+
+* połowa porcji bez wiórków, połowa z 20 g wiórków
+* zamiast jajek 160 g banana (dojrzałość 9/15), zmiksowanego ręcznym blenderem
+  do stanu płynnego
+* 80 g cukru (bo banan jest słodki)
+* zamiast proszku do pieczenia 2,5 płaskiej łyżeczki sody oczyszczonej
+* zamiast masła 200 g margaryny Solla
+* 10 minut w 160 st. z termooobiegiem, 5 minut w 100 st. z termoobiegiem, 15
+  minut stygnięcia w zamkniętym piekarniku
+
+Wyniki
+
+* jeszcze inne niż poprzednie
+* w ogóle nie urosły
+* brązowe w kolorze
+* w środku miękkie i też w dużej części brązowe
+* mocno bananowe
+* dobra słodkość
