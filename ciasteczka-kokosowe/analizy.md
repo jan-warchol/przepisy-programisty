@@ -153,3 +153,25 @@ Wyniki
 * w środku miękkie i też w dużej części brązowe
 * mocno bananowe
 * dobra słodkość
+
+
+#7 2018-11-12
+-------------
+
+Trzeci test wersji wegańskiej, z połowy porcji.
+
+Parametry
+
+* 110 g margaryny + 30 g masła (bo mi się margaryna skończyła a ciasto nie
+  chciało się lepić)
+* brak jajek ani jakiegokolwiek zamiennika
+* 30 g wiórków
+* 17 minut pieczenia
+
+Wyniki
+
+* urosły wyraźnie, tak jak normalne
+* ale trochę się rozpłynęły na boki nie zachowując kształtu
+* bardzo słodkie (hmm, procentowa zawartość cukru jest większa)
+* bardzo kruche, ale nie rozwalają się
+* dużo bardziej przypominają oryginalną wersję niż #5
