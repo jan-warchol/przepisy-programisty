@@ -28,3 +28,13 @@ Przygotowanie
 * uformować ciasteczka (spłaszczone kulki o wymiarach ok. 4 x 4 x 2 cm)
 * piec 15 minut w piekarniku nagrzanym do 160 stopni, z termoobiegiem
 * przed podaniem można udekorować dżemem
+
+Wersja wegańska
+---------------
+
+* masło można wymienić na margarynę (chyba w proporcji 1:1)
+* jajka można zamienić na:
+    * więcej margaryny (dodatkowe 100 g) - wtedy wychodzą bardzo kruche
+    * banana (chyba wystarczy 100 g) - wtedy trzeba dać mniej cukru (chyba
+      wystarczy 150 g), przy czym ciastka będą miały wyraźnie bananowy aromat i
+      nie wyrosną (będą trochę gumowe w konsystencji)
