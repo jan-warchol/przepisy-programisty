@@ -175,3 +175,26 @@ Wyniki
 * bardzo słodkie (hmm, procentowa zawartość cukru jest większa)
 * bardzo kruche, ale nie rozwalają się
 * dużo bardziej przypominają oryginalną wersję niż #5
+
+
+#8 2018-11-17
+-------------
+
+Czwarty test wersji wegańskiej, z połowy porcji, nadal bez "substancji
+sklejającej" (brak zamiennika jajek).
+
+Parametry
+
+* 200 g margaryny (może wystarczyłoby 180 g, ale przy 160 g ciasto jeszcze
+  wyraźnie słabo się lepiło)
+* 50 g cukru 
+* 30 g wiórków
+* 22 minuty pieczenia
+
+Wyniki
+
+* bardzo się rozpłynęły
+* konsystencja przyzwoita, nie za suche, ale...
+* zdecydowanie, okropnie za tłuste! aż się nie da jeść (to znaczy ja wymiękłem
+  po dwóch ciastkach - widział ktoś coś takiego??)
+* na słodkość całkiem dobre :)
