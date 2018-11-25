@@ -198,3 +198,25 @@ Wyniki
 * zdecydowanie, okropnie za tłuste! aż się nie da jeść (to znaczy ja wymiękłem
   po dwóch ciastkach - widział ktoś coś takiego??)
 * na słodkość całkiem dobre :)
+
+#9 2018-11-22
+-------------
+
+Piąty test wegański - z siemieniem lnianym jako zamiennikiem jajka.
+
+Parametry
+
+* 30 g siemienia lnianego (niezmielonego)
+* zalane 135 ml prawie wrzącej wody, odstawione na kilka minut
+* margaryny tyle co masła (200 g)
+* wiórków 50 g
+* 22 minuty pieczenia
+* nie jestem pewien ile dałem cukru
+
+Wyniki
+
+* ciasto podczas zagniatania o podobnej konsystencji do kanonicznego, ale
+  ciut miększe i wyraźnie mniej klejące (trudno było utaczać kulki w rękach)
+* mocno zbite ("chewy"), niektórym (np. Ani) to się właśnie bardzo podobało,
+  inni (np. ja) wolą bardziej kruche
+* ziarna lnu nie przeszkadzały bardzo, ale dało się je wyczuć
