@@ -220,3 +220,19 @@ Wyniki
 * mocno zbite ("chewy"), niektórym (np. Ani) to się właśnie bardzo podobało,
   inni (np. ja) wolą bardziej kruche
 * ziarna lnu nie przeszkadzały bardzo, ale dało się je wyczuć
+
+
+#10 2018-12-07
+--------------
+
+Parametry
+
+* masło prosto z lodówki
+* kulki bez spłaszczenia
+* wyjęte natychmiast i chłodzone na zimnie
+
+Wyniki
+
+* ciężko wymieszać
+* dobrze się formuje
+* nierównomiernie upieczone
