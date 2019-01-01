@@ -69,3 +69,29 @@ do spalenia.
 
 15 min spód w 380F, potem na przemian jedna i druga forma
 
+
+#5 Sylwester 2018
+-----------------
+
+Parametry:
+
+* 5 małych jajek od zielononóżki kuropatwianej (dość starych), razem 280g
+* do ciasta kruchego wpadło mi 3/4 jednego białka
+* 1 cukier waniliowy
+* 1 płaska łyżeczka proszku do pieczenia
+* masło było ciepłe
+* 110 g cukru
+* tortownica mała ze stanów (24 cm?)
+* 280g dżemu porzeczkowego od Babci
+* połowa była z bakaliami (20g rodzynek, 20g orzechów włoskich pokruszonych,
+  trochę tartych orzechów laskowych położonych na warstwę ciemnego ciasta)
+
+Wyniki
+
+* ciasto wyszło dziwnie gumowe i klejące, nie kruszyło się tak jak zwykle
+* spód był chyba zbyt ubity
+* chyba było za mokre; wyglądało jakby spodnia warstwa się nie dopiekła
+  (powinna wyjść bardzo krusząca się)
+* dżemu było za dużo (za słodkie)
+* bakalie i dżem to za dużo. Należy albo dawać do ciemnego ciasta bakalie, albo
+  smarować pod spodem dżemem, nie obie rzeczy naraz.
