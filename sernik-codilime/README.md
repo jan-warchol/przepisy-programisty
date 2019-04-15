@@ -1,8 +1,16 @@
-Sernik nazwany na cześć firmy [CodiLime](https://www.codilime.com/), w której
-pracowałem, i która sfinansowała badania nad tym przepisem (koledzy i koleżanki
-zjedli ponad dwadzieścia sztuk ^^)
+🌍
+*[Polski](README.md)*
 
-## Składniki na dużą tortownicę (27-29 cm średnicy)
+Sernik Codilime
+===============
+
+_Nazwany od firmy [CodiLime](https://www.codilime.com/), w której pracowałem i
+która sfinansowała badania nad tym przepisem._
+
+Składniki na ciasto
+-------------------
+
+_na dużą tortownicę (27-29 cm średnicy)_
 
 - 1000 g sera Wieluń ("Mój ulubiony")
 - 350 g śmietany Piątnica 18%
@@ -14,17 +22,19 @@ zjedli ponad dwadzieścia sztuk ^^)
 - paczka okrągłych biszkoptów, np. Petitki (ok. 100-120 g)
 - 5 ml aromatu cytrynowego albo pomarańczowego
 
-## Składniki na polewę
+Składniki na polewę
+-------------------
 
-- 130 g czekolady deserowej
+- 130 g czekolady deserowej, np. Wedla
 - 100 g śmietanki 30% Zott
 - wiórki kokosowe
 
-## Procedura
+Przygotowanie
+-------------
 
 Wyjąć składniki z lodówki godzinę wcześniej, żeby zmiękły (to ważne!).
 
-Rozgrzać piekarnik do 160 stopni (grzanie góra-dół, bez termoobiegu!).
+Rozgrzać piekarnik do 160 stopni (grzanie góra-dół, **bez termoobiegu!**).
 
 Dno tortownicy wyłożyć papierem do pieczenia (lub posmarować tłuszczem), ułożyć
 na dnie jedną warstwę biszkoptów.
@@ -49,7 +59,8 @@ Po upływie czasu pieczenia pozostawić na ok. godzinę w zamkniętym piekarniku
 potem wyjąć i pozostawić do schłodzenia na następne 2 godziny. Na koniec
 przygotować polewę i wstawić do lodówki na całą noc.
 
-## Polewa
+Polewa
+------
 
 w garnku na mleko (z podwójnym dnem) lub kąpieli wodnej podgrzać śmietankę.
 Kiedy będzie gorąca, wrzucić połamaną czekoladę, zmniejszyć ogień do minimum
@@ -64,7 +75,8 @@ Smacznego!
 
 
 
-## Uwagi 
+Uwagi
+-----
 
 *Uwaga: rodzaj użytego sera ma duże znaczenie. Najbardziej lubię używać twarogu
 zmielonego z Wielunia (ew. Piątnicy), który jest dość gęsty i słodki - wtedy,
