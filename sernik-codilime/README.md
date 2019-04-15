@@ -1,6 +1,6 @@
 Sernik nazwany na cześć firmy [CodiLime](https://www.codilime.com/), w której
-pracuję, i która finansuje badania nad tym przepisem (koledzy i koleżanki
-zjedli już kilkanaście sztuk ^^)
+pracowałem, i która sfinansowała badania nad tym przepisem (koledzy i koleżanki
+zjedli ponad dwadzieścia sztuk ^^)
 
 ## Składniki na dużą tortownicę (27-29 cm średnicy)
 
