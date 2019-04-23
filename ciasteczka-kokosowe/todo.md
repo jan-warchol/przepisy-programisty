@@ -6,9 +6,30 @@ Składniki
 * zawartość masła (2/3 kostki vs 4/3 kostki)
 * ilość cukru (170 g vs 270 g) - niektórzy mówią, że obecne są za słodkie
 * ilość wiórków c.d. (45 g vs 90 g)
-* wersja wegańska - margaryna zamiast masła, banan zamiast jajek
 * czy można wymienić proszek do pieczenia na sodę oczyszczoną, żeby uzyskać w
   pełni bezglutenową wersję? (proszek którego używam ma w składzie mąkę)
+
+Wersja wegańska
+---------------
+
+Masło można wymienić na margarynę (chyba w proporcji 1:1).
+
+Nie ma pewności co do jajek. Próbowałem zamienić je na:
+
+* więcej margaryny (dodatkowe 100 g) - wtedy wychodzą bardzo kruche
+* banana (chyba wystarczy 100 g) - wtedy trzeba dać mniej cukru (chyba
+  wystarczy 150 g), przy czym ciastka miały wyraźnie bananowy aromat i nie
+  wyrosły (były dość gumowe w konsystencji)
+* siemię lniane namoczone w wodzie (całe) - niewiele to dało
+
+Inne pomysły na zamienniki jajek:
+
+* napar z mielonego siemienia lnianego
+* napar z chia
+* rozgotowany ryż
+* fasola
+* tapioka
+* mączka chleba świętojańskiego
 
 Przygotowanie
 -------------
