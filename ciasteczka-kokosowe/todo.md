@@ -1,5 +1,6 @@
 Tutaj spisuję, co jeszcze można by sprawdzić w tym przepisie.
 
+
 Składniki
 ---------
 
@@ -7,6 +8,9 @@ Składniki
 * ilość cukru (170 g vs 270 g) - niektórzy mówią, że obecne są za słodkie
 * ilość wiórków c.d. (45 g vs 90 g)
 * wersja wegańska - margaryna zamiast masła, banan zamiast jajek
+* czy można wymienić proszek do pieczenia na sodę oczyszczoną, żeby uzyskać w
+  pełni bezglutenową wersję? (proszek którego używam ma w składzie mąkę)
+
 
 Przygotowanie
 -------------
@@ -20,11 +24,13 @@ Przygotowanie
 * wpływ termoobiegu (160 st. z termoobiegiem vs 180 st. bez), zwł. przy dwóch
   blachach
 
+
 Niski priorytet
 ---------------
 
 Może na kiedyś, ale to mało istotne.
 
+* może dodać trochę soli (sugestia mamy Ani)
 * wpływ i ilość proszku do pieczenia
 * znaczenie cukru wanilinowego (2 op vs 0)
 * pozycja w piekarniku przy pieczeniu na dwie blachy
