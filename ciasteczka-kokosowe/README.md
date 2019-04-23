@@ -38,4 +38,4 @@ Uwagi
 -----
 
 Pracuję nad wegańską wersją przepisu - patrz gałąź
-[`weganizacja`](https://github.com/jan-warchol/pan-deser/blob/weganizacja/ciasteczka-kokosowe/todo.md#wersja-wega%C5%84ska).
+[`weganizacja`](https://github.com/jan-warchol/przepisy-programisty/blob/weganizacja/ciasteczka-kokosowe/todo.md#wersja-wega%C5%84ska).
