@@ -8,6 +8,8 @@ Składniki
 * 2 łyżki kakao
 * pół szklanki cukru
 * dżem porzeczkowy lub powidła
+* (opcjonalnie) bakalie - siekane orzechy włoskie, rodzynki (?) i ew. orzechy
+  laskowe
 
 
 Przygotowanie
@@ -23,3 +25,8 @@ Przygotowanie
 * posypać resztą ciasta
 * piec ok. 30 minut w 170 stopniach z termoobiegiem
 
+
+Uwagi
+-----
+
+* powidła dobrze się łączą z bakaliami, ale dżem porzeczkowy lepiej żeby był sam
