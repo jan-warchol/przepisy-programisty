@@ -7,6 +7,7 @@ Ciasteczka ryżowo-kokosowe
 
 _wg przepisu Asi Czerwińskiej, z uściśleniami ode mnie_
 
+Czas: 15 minut przygotowania + 15 minut pieczenia
 
 Składniki
 ---------
