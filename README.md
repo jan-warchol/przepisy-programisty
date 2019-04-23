@@ -15,6 +15,14 @@ Ta książka jest trochę inna niż wszystkie:
 * **otwarta** - każdy może zgłaszać propozycje poprawek i nowych przepisów.
 
 
+### Spis treści
+
+* [Legendarny sernik Janka ("sernik CodiLime")](sernik-codilime/README.md)
+* [Ciasteczka kokosowe](ciasteczka-kokosowe/README.md)
+* [Pleśniak](pleśniak/README.md)
+* [Sałatka cioci Ani (na słodko)](sałatka-ananasowo-ryżowa/README.md)
+
+
 ### Dlaczego powstała ta książka i dlaczego w takiej formie?
 
 * Potrzebowałem zapisać gdzieś mój legendarny przepis na sernik, bo często ktoś
