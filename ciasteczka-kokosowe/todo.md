@@ -36,6 +36,11 @@ Inne pomysły na zamienniki jajek:
 * tapioka
 * mączka chleba świętojańskiego
 
+Źródła do poczytania:
+
+* https://www.mydarlingvegan.com/replacing-eggs/
+* https://cooking.stackexchange.com/questions/14025/are-there-any-vegetarian-friendly-egg-substitutes-that-can-be-used-in-cakes
+
 
 Przygotowanie
 -------------
