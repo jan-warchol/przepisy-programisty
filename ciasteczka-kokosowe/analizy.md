@@ -341,7 +341,7 @@ Pieczenie
   * blacha na 2. pozycji od dołu
   * 15.5 minuty
 * partia C:
-  * 3. pozycja od dołu
+  * 3 pozycja od dołu
   * termoobieg wyłączony 1 min przed wstawieniem
   * minimalne ustawienie grzania
   * piekarnik 2 min. zamknięty, potem uchylony na 3 cm przez 10 minut
