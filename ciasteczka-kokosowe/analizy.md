@@ -187,7 +187,7 @@ Parametry
 
 * 200 g margaryny (może wystarczyłoby 180 g, ale przy 160 g ciasto jeszcze
   wyraźnie słabo się lepiło)
-* 50 g cukru 
+* 50 g cukru
 * 30 g wiórków
 * 22 minuty pieczenia
 
@@ -220,3 +220,132 @@ Wyniki
 * mocno zbite ("chewy"), niektórym (np. Ani) to się właśnie bardzo podobało,
   inni (np. ja) wolą bardziej kruche
 * ziarna lnu nie przeszkadzały bardzo, ale dało się je wyczuć
+
+
+#10 2018-12-07
+--------------
+
+Parametry
+
+* masło prosto z lodówki
+* kulki bez spłaszczenia
+* wyjęte natychmiast i chłodzone na zimnie
+
+Wyniki
+
+* ciężko wymieszać
+* dobrze się formuje
+* nierównomiernie upieczone
+
+
+#11 2019-01-03
+--------------
+
+Parametry
+
+* 150 g cukru
+* jedna blacha wstawiona 5 minut później i zostawiona w piekarniku do
+  całkowitego wystygnięcia, druga wyjęta natychmiast po 20 minutach
+
+Wyniki
+
+* Ciastka zostawione w piekarniku wyszły suche
+* wszyscy woleli te mokre
+
+
+#12 2019-01-24
+--------------
+
+Parametry
+
+* 150 g cukru
+* 200 g jajek
+* ciasto podzielone na pół: część przez godzinę w lodówce, część poza lodówką
+* 20 min w 160 stopniach, termoobieg
+
+Wyniki
+
+* ciasto dość rzadkie (ale bez przesady)
+
+
+#13 2019-03: ciastka taty, wariant 1
+------------------------------------
+
+* 170 g cukru trzcinowego
+* 50 g wiórków
+* masło roślinne (150 g)
+
+Reszta standardowo.
+
+
+#14 2019-03: ciastka taty, wariant 2
+------------------------------------
+
+* 6 jajek
+* 2 kleiki
+* 300g cukru zwykłego
+* 125 g wiórków kokosowych
+* masło roślinne (słynne) (300 g)
+
+Reszta standardowo.
+
+
+#15 2019-04-01
+--------------
+
+Test na ilość cukru, pierwsze pieczenie w nowym mieszkaniu.
+
+Parametry
+
+* partia A: 210 g cukru
+* partia B: 140 g cukru
+* po 50 g wiórków
+
+Pieczenie
+
+* piekarnik gazowy na Dobrej
+* pierwsza partia - piekarnik ustawiony na 3, termoobieg chyba włączony, dwie
+  blachy. Górna spaliła się na węgiel, dolna mocno się przypaliła, i to już po
+  kilku minutach (mniej niż 10).
+* druga partia - piekarnik nagrzany na maksymalnym ustawieniu.  Jedna blacha
+  włożona natychmiast po wyłączeniu piekarnika poniżej połowy wysokości. Nie
+  upiekły się, musiałem odpalać piekarnik jeszcze raz.
+* Do chrzanu.
+
+Wyniki
+
+* Masa przy 140 g cukru była już dość rzadka (generalnie dawała się jeszcze
+  dobrze formować, ale być może można dać mniej masła).
+* W smaku też były delikatniejsze (i miększe w konsystencji) - te, które się nie spaliły
+* prawie wszyscy wybrali B
+
+
+#16 2019-04-11
+--------------
+
+Parametry
+
+* 3 partie po pół porcji
+* 40 g wiórków, 150 g cukru i 175 g masła na porcję
+
+Pieczenie
+
+* piekarnik gazowy na Dobrej
+* partia A:
+  * bez termoobiegu
+  * grzanie na minimum
+  * blacha na 3. pozycji od dołu
+  * po 9 minutach były już przypalone
+* partia B:
+  * piekarnik nagrzany na maksimum, z termoobiegiem, i wyłączony
+  * blacha na 2. pozycji od dołu
+  * 15.5 minuty
+* partia C:
+  * 3 pozycja od dołu
+  * termoobieg wyłączony 1 min przed wstawieniem
+  * minimalne ustawienie grzania
+  * piekarnik 2 min. zamknięty, potem uchylony na 3 cm przez 10 minut
+
+Wyniki
+
+* zdecydowana większość preferowała C, były najmniej suche.

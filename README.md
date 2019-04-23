@@ -4,7 +4,7 @@
 Książka kucharska ze szczyptą nauki
 -----------------------------------
 
-*Uwaga: repozytorium jest w fazie alfa.*
+*Uwaga: repozytorium jest w fazie beta*
 
 ### Co to jest?
 
