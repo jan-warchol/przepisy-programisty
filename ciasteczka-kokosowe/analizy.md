@@ -266,3 +266,25 @@ Parametry
 Wyniki
 
 * ciasto dość rzadkie (ale bez przesady)
+
+
+#13 2019-03: ciastka taty, wariant 1
+------------------------------------
+
+* 170 g cukru trzcinowego
+* 50 g wiórków
+* masło roślinne (150 g)
+
+Reszta standardowo.
+
+
+#14 2019-03: ciastka taty, wariant 2
+------------------------------------
+
+* 6 jajek
+* 2 kleiki
+* 300g cukru zwykłego
+* 125 g wiórków kokosowych
+* masło roślinne (słynne) (300 g)
+
+Reszta standardowo.
