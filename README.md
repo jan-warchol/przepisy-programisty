@@ -1,51 +1,45 @@
 🌍
 *[Polski](README.md) ∙ [English](README-en.md)*
 
-Książka kucharska ze szczyptą nauki
------------------------------------
+Otwarta książka kucharska programisty
+-------------------------------------
 
-*Uwaga: repozytorium jest w fazie beta*
+Ta książka jest trochę inna niż wszystkie:
 
-### Co to jest?
+* **dokładna** - przepisy są opisane tak, żeby za każdym razem wychodziły tak
+  samo (koniec ze zgadywaniem ile to jest czubata łyżka mąki i odmierzaniem na
+  oko!),
+* **wyczerpująca** - staram się wyjaśniać "jak to działa": jak modyfikować
+  efekt końcowy zmieniając proporcje składników i sposób przygotowania, oraz co
+  może być powodem jeśli pojawiają się problemy,
+* **otwarta** - każdy może zgłaszać propozycje poprawek i nowych przepisów.
 
-Moim celem jest stworzenie książki kucharskiej z przepisami tak dokładnymi, że
-zawsze się udają i każdemu wychodzą tak samo. I są pyszne :-)
 
-Co więcej, chciałbym zeby przepisy były ogólne i wyczerpujące. Nie wystarczy mi
-przepis na *jakąś* bezę, *jakiś* sernik, *jakąś* polewę czekoladową - chcę
-zgłębić temat i opisać, jak zmiana poszczególnych czynników wpływa na efekt
-końcowy, jak przeciwdziałać często występującym problemom itp.
+### Dlaczego powstała ta książka i dlaczego w takiej formie?
 
-### Dlaczego repozytorium na GitHubie?
+* Potrzebowałem zapisać gdzieś mój legendarny przepis na sernik, bo często ktoś
+  mnie o niego pyta.
+* Ciągle udoskonalam swoje przepisy, więc potrzebuję kontroli wersji żeby mieć
+  w nich porządek.
+* Poza tym wszyscy znajomi uważali, że kto jak kto, ale ja powinienem trzymać
+  swoje przepisy w gicie ;-)
 
-* ciągle udoskonalam te przepisy i chcę mieć kompletną historię zmian
-* potrzebuję platformy do dyskusji nad wprowadzanymi udoskonaleniami
-* chcę zachęcić czytelników do sugerowania poprawek w duchu Open Source
-* tak jest śmiesznie :-)
+Mam nadzieję, że publikując przepisy na GitHubie zachęcę innych do współpracy w
+duchu Open Source:
 
-### Zmiany w przepisach i dodawanie nowych
+* zgłaszania problemów (jeśli komuś nie wyjdzie tak samo jak mi),
+* sugerowania poprawek,
+* dalszych eksperymentów ze składnikami i procedurą.
 
-Zapraszam do wysyłania [Pull
-Requestów](https://github.com/jan-warchol/pan-deser/pulls) z propozycjami :-)
-Oczywiście, jak w każdym szanującym się projekcie, nowe przepisy (i istotne
-zmiany w istniejących) powinny zostać przetestowane - najlepiej upiec
-egzemplarz i dać mi do spróbowania ;-)
 
-### Ale ja nie jestem programistą!
+### O autorze
 
-Spokojnie, przepisy są napisane normalnym językiem. Gdyby coś okazało się
-niezrozumiałe, proszę o kontakt (najlepiej przez otwarcie
-[issue](https://github.com/jan-warchol/pan-deser/issues)).
+Jestem programistą, a pieczenie jest jednym z moich hobby. Nie wystarczy mi
+upiec _jakiś_ sernik albo _jakieś_ ciasteczka - zawsze staram się żeby były
+najlepsze jak tylko się da (a zdaniem rodziny i znajomych często mi się to
+udaje!).
 
-### Ciasto z Twojego przepisu nie udało się
-
-Koniecznie [otwórz issue](https://github.com/jan-warchol/pan-deser/issues/new)
-i opisz, co się stało. Postaram się poprawić przepis tak, żeby następnym razem
-było doskonałe.
-
-### Dlaczego Pan Deser?
-
-To moje przezwisko w [CodiLime](https://www.codilime.com/), gdzie pracowałem
-jako Deployment Engineer. Tak często przynosiłem do pracy różne smakołyki, że
-koledzy mówili na mnie "Pan Deser", i nawet dostałem nieoficjalnie stanowisko
+Przez kilka lat pracowałem w [CodiLime](https://www.codilime.com/) jako
+Deployment Engineer. Tak często przynosiłem do pracy różne smakołyki, że
+koledzy mówili na mnie "Pan Deser", a nawet dostałem nieoficjalnie stanowisko
 *Chief Baking Officer* ;-)
