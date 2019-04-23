@@ -95,3 +95,10 @@ whipped cream cheese i mascarpone (w proporcjach 2:1:1).*
 jest zagęszczana - polewa z użyciem Piątnicy nie rozprowadza się dobrze
 (ewentualnie można rozrzedzić ją mlekiem).*
 
+Polewę czekoladową można zamienić na (lub dodać do niej) lemon curd, czyli krem
+cytrynowy.  Pierwsze testy wersji z lemon curdem: użyłem 250g kremu
+(wymieszanego pół na pół z
+http://kotlet.tv/lemon-curd-najlepszy-cytrynowy-krem/ i
+http://www.mojewypieki.com/przepis/lemon-curd,-klasyczny). W opinii testerów
+krem był zbyt dominujący.
+
