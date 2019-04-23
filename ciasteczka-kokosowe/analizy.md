@@ -187,7 +187,7 @@ Parametry
 
 * 200 g margaryny (może wystarczyłoby 180 g, ale przy 160 g ciasto jeszcze
   wyraźnie słabo się lepiło)
-* 50 g cukru 
+* 50 g cukru
 * 30 g wiórków
 * 22 minuty pieczenia
 
@@ -236,3 +236,33 @@ Wyniki
 * ciężko wymieszać
 * dobrze się formuje
 * nierównomiernie upieczone
+
+
+#11 2019-01-03
+--------------
+
+Parametry
+
+* 150 g cukru
+* jedna blacha wstawiona 5 minut później i zostawiona w piekarniku do
+  całkowitego wystygnięcia, druga wyjęta natychmiast po 20 minutach
+
+Wyniki
+
+* Ciastka zostawione w piekarniku wyszły suche
+* wszyscy woleli te mokre
+
+
+#12 2019-01-24
+--------------
+
+Parametry
+
+* 150 g cukru
+* 200 g jajek
+* ciasto podzielone na pół: część przez godzinę w lodówce, część poza lodówką
+* 20 min w 160 stopniach, termoobieg
+
+Wyniki
+
+* ciasto dość rzadkie (ale bez przesady)
