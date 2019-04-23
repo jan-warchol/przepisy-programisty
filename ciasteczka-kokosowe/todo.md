@@ -10,6 +10,9 @@ Składniki
 * wersja wegańska - margaryna zamiast masła, banan zamiast jajek
 * czy można wymienić proszek do pieczenia na sodę oczyszczoną, żeby uzyskać w
   pełni bezglutenową wersję? (proszek którego używam ma w składzie mąkę)
+    * chyba tak (używałem raz sody), ale trzeba jeszcze zrobić dokładny test
+      (próbowałem sody do wersji bananowej, która w ogóle zachowuje się
+      inaczej)
 
 
 Przygotowanie
