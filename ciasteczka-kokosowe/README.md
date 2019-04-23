@@ -1,10 +1,12 @@
 🌍
 *[Polski](README.md) ∙ [English](README-en.md)*
 
+
 Ciasteczka ryżowo-kokosowe
 ==========================
 
 _wg przepisu Asi Czerwińskiej, z uściśleniami ode mnie_
+
 
 Składniki
 ---------
@@ -18,6 +20,7 @@ Składniki
 * 3 średnie jajka (ok. 180 g)
 * (opcjonalnie) dżem do dekoracji
 
+
 Przygotowanie
 -------------
 
@@ -28,3 +31,10 @@ Przygotowanie
 * uformować ciasteczka (spłaszczone kulki o wymiarach ok. 4 x 4 x 2 cm)
 * piec 15 minut w piekarniku nagrzanym do 160 stopni, z termoobiegiem
 * przed podaniem można udekorować dżemem
+
+
+Uwagi
+-----
+
+Pracuję nad wegańską wersją przepisu - patrz gałąź
+[`weganizacja`](https://github.com/jan-warchol/pan-deser/blob/weganizacja/ciasteczka-kokosowe/todo.md#wersja-wega%C5%84ska).

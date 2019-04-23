@@ -1,5 +1,6 @@
 Tutaj spisuję, co jeszcze można by sprawdzić w tym przepisie.
 
+
 Składniki
 ---------
 
@@ -9,6 +10,7 @@ Składniki
 * wersja wegańska - margaryna zamiast masła, banan zamiast jajek
 * czy można wymienić proszek do pieczenia na sodę oczyszczoną, żeby uzyskać w
   pełni bezglutenową wersję? (proszek którego używam ma w składzie mąkę)
+
 
 Przygotowanie
 -------------
@@ -21,6 +23,7 @@ Przygotowanie
 * jaka temperatura (20 min w 140 st. vs 12 min w 180 st.)
 * wpływ termoobiegu (160 st. z termoobiegiem vs 180 st. bez), zwł. przy dwóch
   blachach
+
 
 Niski priorytet
 ---------------
