@@ -368,3 +368,4 @@ Wyniki
 
 * ciasto nie dawało się wygodnie formować w kulki (kruszyło się)
 * zasadniczo wyszły blade z zarumienieniem od góry (blacha) i dołu (grzałka)
+* chrupiące na zewnątrz, dość miękkie (choć trochę gumowe) w środku. Epifanii smakowały.
