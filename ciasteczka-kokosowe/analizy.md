@@ -349,3 +349,22 @@ Pieczenie
 Wyniki
 
 * zdecydowana większość preferowała C, były najmniej suche.
+
+
+#17 2019-04-25
+--------------
+
+Parametry
+
+* ciasto z poprzedniej partii, leżakowało w lodówce 2 tygodnie
+* wyjęte z lodówki 2h przed pieczeniem
+* pieczenie
+  * piekarnik nagrzany na minimalnym gazie
+  * 13 minut w uchylonym na 3 cm
+  * 7 minut w zamkniętym
+  * 2 minuty z dodatkowym grzaniem od góry
+
+Wyniki
+
+* ciasto nie dawało się wygodnie formować w kulki (kruszyło się)
+* zasadniczo wyszły blade z zarumienieniem od góry (blacha) i dołu (grzałka)
