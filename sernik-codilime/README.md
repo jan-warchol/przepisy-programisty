@@ -102,3 +102,16 @@ http://kotlet.tv/lemon-curd-najlepszy-cytrynowy-krem/ i
 http://www.mojewypieki.com/przepis/lemon-curd,-klasyczny). W opinii testerów
 krem był zbyt dominujący.
 
+
+Potrzebne przybory
+------------------
+
+* tortownica 28-30 cm
+* duża miska
+* metalowa miska
+* duża łyżka
+* mikser z końcówkami do ubijania
+* łopatka do nabierania ciasta
+* garnek z grubym dnem
+* waga kuchenna
+
