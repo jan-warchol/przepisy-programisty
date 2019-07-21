@@ -43,3 +43,17 @@ Wyniki:
 - nie za bardzo słodkie (może można dać więcej cukru?)
 - dobre jako dodatek do sera i do sernika
 
+2019-07-21 smażenie przecieru porzeczkowego
+-------------------------------------------
+
+Parametry:
+
+- 900 g przecieru z białej porzeczki
+- 450 g cukru
+- ok. 1h gotowania w garnku
+
+Wyniki:
+
+- brunatno-bordowy kolor (dość ciemny)
+- niezła klarowność
+- bardzo trudno nalewać bo lepi się do brzegu garnka
