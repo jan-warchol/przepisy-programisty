@@ -57,3 +57,7 @@ Wyniki:
 - brunatno-bordowy kolor (dość ciemny)
 - niezła klarowność
 - bardzo trudno nalewać bo lepi się do brzegu garnka
+- ok 400-500 ml gotowego dżemu (trochę wykipiało)
+- mocno słodki
+- bardzo intensywny, esencjonalny
+- gęsty (podobny do standardowej czarnej porzeczki)
