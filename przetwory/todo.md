@@ -1,0 +1,7 @@
+- kupić pektynę
+- spróbować porzeczek białych z inną ilością cukru
+- spróbować długiego gotowania przetartych białych porzeczek
+- spróbować borówki z pektyną zamiast żelfixu
+- spróbować borówki z sokiem z cytryny/jabłek
+- borówki z całymi owocami
+- porównać czy pektyna i żelfix dają różnicę w smaku
