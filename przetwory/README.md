@@ -32,7 +32,7 @@ Proporcje
 Uwagi
 -----
 
-babcia ma Kenwood PureJuice JMP600WH
-pektyny podobno amidowane
-próbowałem z dżemixem, ale chyba jest mniej smaczne
-mycie porzeczek: najwygodniej wrzucić do miski z wodą, wytrzepać i odsączyć
+- babcia ma Kenwood PureJuice JMP600WH
+- pektyny podobno amidowane
+- próbowałem z dżemixem, ale chyba jest mniej smaczne
+- mycie porzeczek: najwygodniej wrzucić do miski z wodą, wytrzepać i odsączyć
