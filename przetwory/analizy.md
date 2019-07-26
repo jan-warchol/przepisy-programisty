@@ -1,6 +1,26 @@
 Przetwory babci
 ===============
 
+2017(2018?) przetwory u Babci
+-----------------------------
+
+Parametry:
+
+- jedna partia czarnych porzeczek z samym cukrem, druga z dżemixem. W drugiej
+  zastąpiliśmy kroki 3 i 4 instrukcjami z dżemixu. Cukier wsypywaliśmy nie
+  czekając na zagotowanie; gotowaliśmy 2 minuty (od pojawienia się wyraźnych
+  bąbelków).
+- dwie partie przecieru z czerwonej porzeczki: jedna 0.8:1 cukru, druga 1.2:1
+  cukru
+
+Wyniki:
+
+- porzeczki z dżemiksem są słabe - płynące i mniej smaczne (chyba za kwaśne).
+  Dużo lepiej wychodzi z samym cukrem (1:1)
+- maliny (dla mnie) lepiej nie same, tylko mieszane z borówką albo jeżyną
+
+
+
 2019-07-13 porzeczki u Babci
 ----------------------------
 
