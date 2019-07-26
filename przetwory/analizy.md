@@ -14,22 +14,8 @@ Wyniki:
 - czerwone z mniej cukru zupełnie płynne
 
 
-2019-07-13 borówki u mnie
--------------------------
-
-Parametry:
-
-
-wyniki:
-
-- jedne i drugie borówki bez dżemiksu płynne
-- borówki z dżemiksem smakują wyraźnie inaczej niż bez
-- słodsze borówki raczej za słodkie
-- spodziewam się, że dodanie soku z cytryny może dać naprawdę dobry efekt
-
-
-porzeczki białe u Ani
----------------------
+2019-07-17 porzeczki białe u Ani
+--------------------------------
 
 Parametry:
 
@@ -43,8 +29,9 @@ Wyniki:
 - nie za bardzo słodkie (może można dać więcej cukru?)
 - dobre jako dodatek do sera i do sernika
 
-2019-07-21 smażenie przecieru porzeczkowego
--------------------------------------------
+
+2019-07-21 przecier porzeczkowy
+-------------------------------
 
 Parametry:
 
@@ -61,3 +48,41 @@ Wyniki:
 - mocno słodki
 - bardzo intensywny, esencjonalny
 - gęsty (podobny do standardowej czarnej porzeczki)
+
+
+2019-07 borówki amerykańskie
+----------------------------
+
+Kilka serii dżemu z borówek amerykańskich od Babci.
+
+Uwagi ogólne:
+
+- łyż. pektyn = 1 zupełnie płaska (wyrównana nożem) łyżeczka pektyny amidowanej
+- wszystkie partie myte pod bieżącą wodą, następnie miksowane ręcznym blenderem
+  do dość gładkiej konsystencji, mieszane z cukrem (z ew. dodatkiem pektyn) i
+  potem podgrzewane.
+- słoiki serii A, B i C wyparzane w piekarniku
+- słoiki serii D, E, F, G i H wyparzane wrzątkiem
+- serie F, G i H były robione po kilku dniach, z dość zleżałych borówek
+- miałem sporo problemów z brudzeniem gwintów i ścianek słoików przy nalewaniu
+
+Parametry:
+
+- (A) 750 g borówki, 190 g cukru (1:4), bez pektyn, podgrzane do 75 st. C
+- (B) 750 g borówki, 500 g cukru (2:3), bez pektyn, 74 st.
+- (C) 750 g borówki, 190 g cukru (1:4), 1 op. dżemixu (30 g), ~75 st.
+
+- (D) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, 75 st.
+- (E) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, 75 st.
+- (F) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, 2 łyżki soku z cytryny,
+  95 st.
+- (G) 900 g borówki, 300 g cukru (1:3), 300 g wody, 6 łyż. pektyn, 3 łyżki soku
+  z cytryny, 95 st.
+- (H) 1450 g borówki, 350 g cukru (1:4), 4 łyż. pektyn, 85 st.
+
+Wyniki:
+
+- A i B (bez dżemiksu ani pektyn) płynne
+- wszystkie pozostałe dobrze ścięte
+- B raczej za słodkie
+- borówki z dżemiksem smakują wyraźnie inaczej niż bez (C vs A)
