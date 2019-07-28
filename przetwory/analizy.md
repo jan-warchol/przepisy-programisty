@@ -103,7 +103,12 @@ Parametry:
 
 Wyniki:
 
-- A i B (bez dżemiksu ani pektyn) płynne
+- A i B (bez dżemiksu ani pektyn) płynne (w opinii degustatorów zbyt płynne do
+  zastosowań kanapkowych)
 - wszystkie pozostałe dobrze ścięte
-- B raczej za słodkie
+- B raczej za słodkie, zarówno wg mnie jak i rodziny (Belków i Warchołów)
 - borówki z dżemiksem smakują wyraźnie inaczej niż bez (C vs A)
+- zdania co do dodatku cytryny są podzielone, niektórym smakowała bardziej
+  innym mniej
+- zasadniczo z zestawu A, B, F i H faworytem wydawała się H.
+
