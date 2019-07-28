@@ -93,7 +93,8 @@ Parametry:
 - (C) 750 g borówki, 190 g cukru (1:4), 1 op. dżemixu (30 g), ~75 st.
 
 - (D) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, 75 st.
-- (E) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, 75 st.
+- (E) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, gotowane przez
+  kilkanaście minut
 - (F) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, 2 łyżki soku z cytryny,
   95 st.
 - (G) 900 g borówki, 300 g cukru (1:3), 300 g wody, 6 łyż. pektyn, 3 łyżki soku
