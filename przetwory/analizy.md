@@ -100,6 +100,8 @@ Parametry:
 - (G) 900 g borówki, 300 g cukru (1:3), 300 g wody, 6 łyż. pektyn, 3 łyżki soku
   z cytryny, 95 st.
 - (H) 1450 g borówki, 350 g cukru (1:4), 4 łyż. pektyn, 85 st.
+- (I) powtórne przetworzenie ok. 3/5 partii H (podgrzanie w garnku) z dodaną
+  laską wanilii. 
 
 Wyniki:
 
