@@ -68,6 +68,7 @@ Wyniki:
 - mocno słodki
 - bardzo intensywny, esencjonalny
 - gęsty (podobny do standardowej czarnej porzeczki)
+- bardzo łatwo kipi, trzeba cały czas przy nim stać
 
 
 2019-07 borówki amerykańskie
@@ -112,5 +113,15 @@ Wyniki:
 - borówki z dżemiksem smakują wyraźnie inaczej niż bez (C vs A)
 - zdania co do dodatku cytryny są podzielone, niektórym smakowała bardziej
   innym mniej
+- G wyszły bardzo gęste (chyba najbardziej ścięte ze wszystkich); spokojnie
+  można było dać mniej pektyn.
 - zasadniczo z zestawu A, B, F i H faworytem wydawała się H.
+- przy porównaniu A, C i H (z Łukaszem) wygrała H. Co ciekawe, pomimo
+  nominalnie takiej samej zawartości cukru, C i H wydawały się zdecydowanie
+  słodsze. Możliwe, że to oznacza że same borówki bardzo różnią się między sobą
+  (czemu wcale bym się nie dziwił).
+- ogólnie rzecz biorąć H ma bardzo dobrą konsystencję, chociaż możliwe że
+  wystarczyłoby mniej pektyn.
+- sprawdziłem że po ponownym podgrzaniu dżem robi się płynny, a potem znowu
+  zastyga - można bez problemu przelewać do innych słoików
 
