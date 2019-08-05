@@ -125,3 +125,24 @@ Wyniki:
 - sprawdziłem że po ponownym podgrzaniu dżem robi się płynny, a potem znowu
   zastyga - można bez problemu przelewać do innych słoików
 
+
+2019-08 borówki+maliny
+----------------------
+
+Pierwsze 3 partie przygotowane z Babcią (2019-08-04), wg przepisu na dżemixie
+(wymieszać owoce z dżemixem, zagotować, dodać cukier, zagotować przez dwie
+minuty, rozlewać).
+
+Parametry:
+
+- Partie A i B z całych owoców, C zblendowana ręcznym blenderem. Ponieważ
+  borówki były małe i dość twarde, w partiach A i B raczej się nie rozpadły i
+  zostały całe owoce.
+- były 3 partie malin: 1. i 2. ładne (sucha i mokra, raczej takie same) i 3.
+  mikra.
+- borówki starałem się wymieszać tak, żeby we wszystkich partiach były takie
+  same.
+- (A) 1kg borówki, 1kg maliny (1. partia), 2 dżemixy, cukier 1:3
+- (B) 800g borówki, 800g maliny (2. partia), 2 dżemixy, cukier 1:3
+- (C) 600g borówki, 600g maliny (3. partia), 1 dżemix, cukier 1:3
+

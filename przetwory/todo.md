@@ -11,3 +11,8 @@ opcjonalnie:
 
 - borówki z całymi owocami
 - porównać czy pektyna i żelfix dają różnicę w smaku
+
+Zagadnienia ogólne:
+
+- zbadać dokładnie wpływ pozostawionego powietrza na długoterminowe
+  przechowywanie dżemu
