@@ -157,3 +157,28 @@ Wyniki:
 - partia D w porównaniu z dżemem z 2017 o wiele bardziej słodka, a za to jakby
   mniej owocowa. Podejrzewam, że partia z 2017 miała inne proporcje malin do
   borówek.
+
+
+2019-08 drugi rzut borówki
+--------------------------
+
+Chcę sprawdzić, czy pektyny rzeczywiście wpływają na smak. Poprzednie wyniki
+mogły być niemiarodajne, ponieważ dżemy z pektynami i bez były robione z
+różnych partii borówek.
+
+Parametry:
+
+- procedura: zblendowanie, dodanie cukru wymieszanego z pektynami, podgrzanie
+  do ok. 80 st.C
+- 570 g borówek na partię, cukier w proporcji 1:3
+- partia J: bez pektyn
+- partia K: 0.5 płaskiej łyżeczki pektyn
+- partia L: 1 płaska łyżeczka pektyn
+
+Wyniki:
+
+- z jednej partii wychodziło ok. 540 ml dżemu
+- okazuje się, że przy dostatecznie dokładnym blendowaniu można uzyskać na tyle
+  gładką konsystencję, że daje się nalewać z garnka (przynajmniej do tych
+  dużych słoików).
+
