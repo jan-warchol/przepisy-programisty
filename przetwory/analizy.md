@@ -10,8 +10,6 @@ Parametry:
   zastąpiliśmy kroki 3 i 4 instrukcjami z dżemixu. Cukier wsypywaliśmy nie
   czekając na zagotowanie; gotowaliśmy 2 minuty (od pojawienia się wyraźnych
   bąbelków).
-- dwie partie przecieru z czerwonej porzeczki: jedna 0.8:1 cukru, druga 1.2:1
-  cukru
 
 Wyniki:
 
@@ -27,11 +25,12 @@ Wyniki:
 Parametry:
 
 - czarne 1:1 cukru
-- czerwone w dwóch wariantach, mniej i więcej cukru
+- dwie partie przecieru z czerwonej porzeczki: jedna 0.8:1 cukru, druga 1.2:1
+  cukru
 
 Wyniki:
 
-- czerwone z mniej cukru zupełnie płynne
+- czerwone porzeczki z mniejszą ilością cukru wyszły zupełnie płynne
 
 
 2019-07-17 porzeczki białe u Ani
