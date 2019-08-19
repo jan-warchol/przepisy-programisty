@@ -1,8 +1,8 @@
 🌍
 *[Polski](README.md) ∙ [English](README-en.md)*
 
-Rice and coconut cookies
-========================
+Rice-based coconut cookies
+==========================
 
 _original recipe by Asia Czerwińska, clarified measurements by me_
 
