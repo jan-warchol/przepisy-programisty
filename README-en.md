@@ -1,16 +1,22 @@
 🌍
 *[Polski](README.md) ∙ [English](README-en.md)*
 
-Geeky recipes
--------------
+Recipes, analyses and other cooking notes
+-----------------------------------------
 
-This repo is my cookbook. The aim is to make it as precise as possible, so that
-anyone following the recipes will be able to reproduce my (excellent, according
-to my friends and colleagues) results _exactly_. Additionally, I want to
-explore how proportions of ingredients and particular ways of doing things
-influence the final result, to get a deep understanding of how each recipe
-works. This will help with troubleshooting (if anyone tries the recipe and
-won't get the same results).
+I like to experiment with recipes, aiming to find the best possible cheesecake,
+cookies etc. This is the place where I keep my notes, trying to make them
+accurate and reproducible. Hopefully one day this will become a complete
+cookbook :-)
+
+How to use this
+---------------
+
+* each directory is a separate recipe
+* the official version of a recipe is in `README.md`
+* log of all experiments (and their results) related to a recipe is in
+  `analizy.md`
+* list of research topics is in `todo.md`
 
 About English translation
 -------------------------
@@ -21,10 +27,10 @@ when I tried to bake my flagship cheesecake in US, I just couldn't get right
 ingredients - everything was different than in Poland). However, I'm open to
 providing translations of the recipes :-)
 
-Why GitHub??
+Contributing
 ------------
 
-* I want to track how recipes evolve
-* I want a mechanism to discuss improvements in recipes (Pull Requests!)
-* I want to make it easy for others to suggest changes (Open Source!)
-* It's fun, and a geeky thing to do!
+* please open an issue if something is not clear.
+* I'm happy to accept pull requests with suggestions and translations.
+* it would be delightful if you tried experimenting with the recipes and shared
+  your results!
