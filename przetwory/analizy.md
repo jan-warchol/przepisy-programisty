@@ -123,6 +123,10 @@ Wyniki:
   wystarczyłoby mniej pektyn.
 - sprawdziłem że po ponownym podgrzaniu dżem robi się płynny, a potem znowu
   zastyga - można bez problemu przelewać do innych słoików
+- wygląda na to, że gotowany dżem jest smaczniejszy: w porównaniu D i E oboje z
+  Anią woleliśmy E. Był nie tylko trochę słodszy (co można tłumaczyć
+  odparowaniem wody), ale miał też inny kolor (bardziej nasycony i bardziej
+  czerwony) i smak owoców był wyrazistszy (smakował prawie jak dżem jagodowy).
 
 
 2019-08 borówki+maliny
