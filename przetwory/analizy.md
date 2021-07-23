@@ -47,6 +47,7 @@ Wyniki:
 - w smaku trochę inne, ale nie bardzo
 - nie za bardzo słodkie (może można dać więcej cukru?)
 - dobre jako dodatek do sera i do sernika
+- szybko się psują po otwarciu :/
 
 
 2019-07-21 przecier porzeczkowy
@@ -91,7 +92,6 @@ Parametry:
 - (A) 750 g borówki, 190 g cukru (1:4), bez pektyn, podgrzane do 75 st. C
 - (B) 750 g borówki, 500 g cukru (2:3), bez pektyn, 74 st.
 - (C) 750 g borówki, 190 g cukru (1:4), 1 op. dżemixu (30 g), ~75 st.
-
 - (D) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, 75 st.
 - (E) 600 g borówki, 60 g cukru (1:10), 1 łyż. pektyn, gotowane przez
   kilkanaście minut
@@ -127,6 +127,66 @@ Wyniki:
   Anią woleliśmy E. Był nie tylko trochę słodszy (co można tłumaczyć
   odparowaniem wody), ale miał też inny kolor (bardziej nasycony i bardziej
   czerwony) i smak owoców był wyrazistszy (smakował prawie jak dżem jagodowy).
+- jeden słoik G zaczął pleśnieć :( moj wybór między F i G: G.
+  F za kwaśny i trochę za rzadki. G mógłby być ciut mniej słodki, ciut rzadszy
+  i ciut bardziej cytrynowy.
+
+
+2019-08 drugi rzut borówki
+--------------------------
+
+Chcę sprawdzić, czy pektyny rzeczywiście wpływają na smak. Poprzednie wyniki
+mogły być niemiarodajne, ponieważ dżemy z pektynami i bez były robione z
+różnych partii borówek.
+
+Parametry:
+
+- procedura: zblendowanie, dodanie cukru wymieszanego z pektynami, podgrzanie
+  do ok. 80 st.C
+- 570 g borówek na partię, cukier w proporcji 1:3
+- partia J: bez pektyn
+- partia K: 0.5 płaskiej łyżeczki pektyn
+- partia L: 1 płaska łyżeczka pektyn
+
+Wyniki:
+
+- z jednej partii wychodziło ok. 540 ml dżemu
+- okazuje się, że przy dostatecznie dokładnym blendowaniu można uzyskać na tyle
+  gładką konsystencję, że daje się nalewać z garnka (przynajmniej do tych
+  dużych słoików).
+- ogólnie rzecz biorąc różnica w konsysencji nie była duża; nawet L była niezbyt gęsta
+- któryś z dużych słoików zaczął pleśniieć :/ mimo że wszystkie były mocno zassane
+- oceniając w oderwaniu od pozostałych, partia K wydaje się mieć optymalną
+  konsystencję i dobrą słodkość.  co ciekawe, nawet partia J była dobrze
+  ścięta. Prawdopodobnie dlatego, że owoce były mniejsze (bardziej wysuszone
+  albo po prostu więcej skórki, mniej miąższu)
+- w smaku prawie identyczne. W J minimalnie bardziej czuć słodycz niż w L.
+
+
+### Wyniki po roku
+
+B - bardzo słodkie
+
+I lepsze od H; pełniejsze w smaku (też słodsze, co niekoniecznie jest zaletą),
+aromat waniliowy wyczuwalny ale nie przytłacza.
+
+K i L bardzo podobne; K słodsze i minimalnie bardziej wodniste.
+
+C mocniejsze w smaku od K i L - dość kwaśne i trochę słodsze, zdecydowanie
+gęstsze (aż za bardzo). Raczej gorszze od K i L.
+
+D kiepskie, rzadkie i wodniste w smaku. H dużo lepsze - świetna konsystencja,
+wyrazisty smak, nie za słodkie ani nie za kwaśne.  E dużo lepsze od D. E chyba
+najbardziej ze wszystkich przypominają w smaku jagody.
+
+E i H bardzo dobre, trudno wybrać - H słodsze, E bardziej kwaskowe. H minimalnie gęstsze. 
+
+F wyraźnie kwaskowe, mało intensywny aromat. Konsystencja dobra. Zdecydowanie
+lepsze od D, ale gorsze od E.  G słodsze od F, bardzo gęste, trochę mało
+intensywne ale niezłe.
+
+Generalnie zblendowanie borówek jest korzystne - są wygodniejsze w jedzeniu i
+nalewaniu, a różnicy w smaku raczej nie ma.
 
 
 2019-08 borówki+maliny
@@ -160,28 +220,21 @@ Wyniki:
 - partia D w porównaniu z dżemem z 2017 o wiele bardziej słodka, a za to jakby
   mniej owocowa. Podejrzewam, że partia z 2017 miała inne proporcje malin do
   borówek.
+- partia B w porównaniu z dżemem z 2017 bardziej słodka i gęstsza (trochę za
+  gęsta, wolałbym odrobinę rzadszą)
+- partia D dużo rzadsza niż B.
+- (po roku) C słodsze i bardziej malinowe od B; moim zdaniem lepsze
 
 
-2019-08 drugi rzut borówki
---------------------------
+2019 maliny
+-----------
 
-Chcę sprawdzić, czy pektyny rzeczywiście wpływają na smak. Poprzednie wyniki
-mogły być niemiarodajne, ponieważ dżemy z pektynami i bez były robione z
-różnych partii borówek.
+parametry
 
-Parametry:
+- wszystko zgodnie z instrukcją dżemiksu
 
-- procedura: zblendowanie, dodanie cukru wymieszanego z pektynami, podgrzanie
-  do ok. 80 st.C
-- 570 g borówek na partię, cukier w proporcji 1:3
-- partia J: bez pektyn
-- partia K: 0.5 płaskiej łyżeczki pektyn
-- partia L: 1 płaska łyżeczka pektyn
+wyniki
 
-Wyniki:
-
-- z jednej partii wychodziło ok. 540 ml dżemu
-- okazuje się, że przy dostatecznie dokładnym blendowaniu można uzyskać na tyle
-  gładką konsystencję, że daje się nalewać z garnka (przynajmniej do tych
-  dużych słoików).
-
+- wspaniałe!
+- świetna konsystencja
+- świetny balans słodyczy i kwaśności
