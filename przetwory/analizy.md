@@ -238,3 +238,51 @@ wyniki
 - wspaniałe!
 - świetna konsystencja
 - świetny balans słodyczy i kwaśności
+
+
+2021-07 porzeczki
+-----------------
+
+- słoiki myte w zmywarce i potem zakręcone, czekały 12 godzin i były trochę
+  wilgotne w środku
+- wydawały się trochę rzadsze po wyciśnięciu
+- podgrzewane do 70-72 stopni
+
+
+2021-07 borówki
+---------------
+
+- użyłem pektyny sprzed dwóch lat (w zapachu i smaku wydaje się dobra)
+
+Parametry:
+
+- (A) 800 g borówki, 80 g cukru (1:10), 2 łyż. pektyn, podgrzane do 80 st.
+- (B) połowa partii (A) gotowana jeszcze przez ~12 minut. Zrobiła się bardzo gęsta.
+- (C) 1 kg borówki, 250 g cukru (1:4), 2 łyż. pektyn, podgrzane do 80 st.
+- (D) połowa partii (C) gotowana jeszcze przez ~12 minut. Zrobiła się wyraźnie gęsta.
+- (F) 1 kg borówki, bez cukru, bez pektyn. Gotowane przez 15 minut na
+  niewielkim ogniu (odparowało 25% masy).
+- (G) 700 g borówki, 70 g cukru (1:10), bez pektyn, gotowane 15 minut na
+  średnim ogniu (odparowało 40% masy).
+
+Obserwacje:
+
+- zblendowane borówki zaczynają bulgotać ok. 80 st.
+- 750 g dżemu starcza na 3 2/3 słoika.
+- przy odparowaniu 40% masy zdecydowanie nie da się już nalewać z garnka. Przy
+  25% jeszcze daje radę.
+- F nie ścięło się - pozostało płynne. A za rzadkie, C też powino być gęstsze.
+  B za gęste.
+- A najsłabsze, takie jakieś bez smaku. Zarówno większa zawartość
+  cukru (C) jak i dłuższe gotowanie (B) dało lepszy efekt.
+- C ma swój charakter (Ani smakował bardziej niż D)
+
+Wnioski:
+
+- warto produkować dwa warianty: podgrzany do ~80 st. i przegotowany.
+- zawartość cukru:
+  - w wariancie podgrzanym między 1:3 a 1:5.
+  - w przegotowanym między 1:10 a 1:4.
+- ile pektyny zależy od czasu gotowania (i cukru):
+  - podgrzanie, cukier 1:4 - ~3 łyż. na kg owoców
+  - gotowanie (%?) - 1 łyż. na kg owoców??

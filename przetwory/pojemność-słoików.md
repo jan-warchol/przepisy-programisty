@@ -1,7 +1,9 @@
-W specyfikacji pojemność słoika jest zazwyczaj podawana do samej krawędzi.
-Ponieważ nigdy nie nalewam aż po brzegi, poniżej podaję pojemność użytkową
-(mierzoną do pogrubienia poniżej gwintu).
+W specyfikacji pojemność słoika jest zazwyczaj podawana aż do samej krawędzi.
+W praktyce z jednej strony nie da się nalać dżemu aż po brzegi, a z drugiej
+strony im mniej powietrza zostanie w środku tym mniejsza degradacja smaku z
+czasem. Dlatego staram się nalewać aż do gwintu (powyżej pogrubienia), co daje
+następujące pojemności użytkowe:
 
-małe: 80-90 ml
-średnie: 160 ml
-duże: 270 ml
+małe: 100-110 ml
+średnie: 190-200 ml
+duże: ? ml
