@@ -249,12 +249,12 @@ wyniki
 - podgrzewane do 70-72 stopni
 
 
-2021-07 borówki
----------------
+2021 borówki
+------------
 
 - użyłem pektyny sprzed dwóch lat (w zapachu i smaku wydaje się dobra)
 
-Parametry:
+Parametry - partie lipcowe:
 
 - (A) 800 g borówki, 80 g cukru (1:10), 2 łyż. pektyn, podgrzane do 80 st.
 - (B) połowa partii (A) gotowana jeszcze przez ~12 minut. Zrobiła się bardzo gęsta.
@@ -265,9 +265,20 @@ Parametry:
 - (G) 700 g borówki, 70 g cukru (1:10), bez pektyn, gotowane 15 minut na
   średnim ogniu (odparowało 40% masy).
 
+Parametry - partie sierpniowe:
+
+- (H) 1.5 kg borówki, 375 g cukru (1:4), 5 łyż. pektyn, podgrzane do 70 st.
+- (I) część partii H podgrzana do 90 st (na moim termometrze, na babcinym 100)
+- (J) 2 kg borówki, 200 g cukru (1:10), 1 łyż. pektyn, gotowane ponad 40 minut
+  (aż odparowało 30% masy)
+- (K) do 230 g partii J dodałem 100 ml wody (tak jakby przywróciłem to, co
+  odparowało) i 1/3 łyż. pektyn.
+
 Obserwacje:
 
-- zblendowane borówki zaczynają bulgotać ok. 80 st.
+- wygląda na to, że mój termometr jest mocno niedokładny. Kiedy on pokazywał 80
+  stopni, termometr babci pokazywał 90.
+- zblendowane borówki zaczynają bulgotać ok. 80 st. (wg mojego termometru)
 - 750 g dżemu starcza na 3 2/3 słoika.
 - przy odparowaniu 40% masy zdecydowanie nie da się już nalewać z garnka. Przy
   25% jeszcze daje radę.
@@ -276,6 +287,7 @@ Obserwacje:
 - A najsłabsze, takie jakieś bez smaku. Zarówno większa zawartość
   cukru (C) jak i dłuższe gotowanie (B) dało lepszy efekt.
 - C ma swój charakter (Ani smakował bardziej niż D)
+- większa partia potrzebuje dużo więcej czasu na odparowanie (por. J i G)
 
 Wnioski:
 
