@@ -9,6 +9,16 @@ Porzeczki
   65 stopni przez 2 minuty.
   https://www.teoriakulinariow.pl/post/jak-gotowac-by-nikogo-nie-zabic
 
+
+czarne:
+- eksperyment z 2/3 cukru i pektynami (600g owoców, 400 g cukru, 1 łyż. pektyn)
+- eksperyment z fruktozą (1:1)
+- eksperyment z temperaturą
+
+białe - eksperyment z gotowaniem:
+- parę minut do zmiany koloru, 2/3 cukru
+- 30 minut gotowania, 1/3 cukru
+
 Borówki
 -------
 

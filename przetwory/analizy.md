@@ -1,3 +1,9 @@
+Różne uwagi
+===========
+
+- należy brać rękawiczki do zakręcania gorących słoików
+
+
 Przetwory babci
 ===============
 
