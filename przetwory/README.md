@@ -36,3 +36,4 @@ Uwagi
 - pektyny podobno amidowane
 - próbowałem z dżemixem, ale chyba jest mniej smaczne
 - mycie porzeczek: najwygodniej wrzucić do miski z wodą, wytrzepać i odsączyć
+- Temperatury i czasy do pasteryzacji: https://www.teoriakulinariow.pl/post/jak-gotowac-by-nikogo-nie-zabic

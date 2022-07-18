@@ -1,3 +1,5 @@
 - warto przygotować rękawiczkę - pomoże przy zakręcaniu gorących słoików (można też przez ścierkę, ale jest mniej wygodnie)
 - garnek musi mieć rant, a nie prosty brzeg - w przeciwnym razie przy nalewaniu dżem zaczyna cieknąć po brzegu i wszystko jest upaprane
 - wydaje się, że najmniejsze słoiczki (65 ml) gorzej się zasysają. Być może trzeba je zakręcać natychmiast, nie po nalaniu całej serii
+- słoiki można myć w zmywarce. Umyte i zakręcone, czekały 12 godzin i były trochę wilgotne w środku, a mimo to nie było potem problemów
+- tak naprawdę dużą część eksperymentów wygodniej zrobić w domu. Wystarczy zabrać jakiś duży słój z przecierem porzeczkowym (być może wstępnie zapasteryzowanym)
