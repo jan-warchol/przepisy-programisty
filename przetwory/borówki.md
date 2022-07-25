@@ -158,6 +158,15 @@ Obserwacje:
 - C ma swój charakter (Ani smakował bardziej niż D)
 - większa partia potrzebuje dużo więcej czasu na odparowanie (por. J i G)
 
+Obserwacje po roku:
+- J i K słabe, za rzadkie i bez smaku. J nieco lepszy, słodszy.
+- A: tragedia, wodnisty, zupełnie niedobry. Fuj!
+- C: słaby, ale o wiele lepszy niż A.
+- H nieco lepszy od I, bardziej intensywny.
+- D nieco lepszy od H, bardziej esencjonalny.
+- H i D nieco za gęste.
+
+
 Wnioski:
 
 - warto produkować dwa warianty: podgrzany do ~80 st. i przegotowany.
