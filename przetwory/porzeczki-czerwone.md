@@ -1,3 +1,11 @@
+TODO
+----
+
+świeże czerwone porzeczki są naprawdę pysznym dodatkiem do serów. Czy da się je
+zasłoikować w możliwie najbardziej zbliżonej do świeżej formie? na przykład
+zblendować całe i dodać pektyn, a cukru wcale nie.
+
+
 2019-07-13
 ----------
 
