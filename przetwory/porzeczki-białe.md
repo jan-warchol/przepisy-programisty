@@ -39,6 +39,28 @@ Odparowywać 1 kg przecieru, co jakiś czas wylewając łyżeczkę na spodek i s
 Log
 ---
 
+### 2022-07-31
+
+Robione u mnie w domu maszyną babci z porzeczek przywiezionych przez tatę (końcówka sezonu).
+Przecier wyszedł dziwny. Jakiś mętny, dużo farfocli, i w ogóle mało było suchego odpadu.
+Maszyna też gorzej pracowała, może nie była dostatecznie czysta.
+
+partia H:
+  - 800 g przecieru, 400 g cukru
+  - 4 p.ł. pektyn (1 pł / 200 g przecieru)
+  - 70-80 st.
+
+partia I:
+  - kontynuacja H po odlaniu 280 g
+  - plus dodatkowa p.ł. pektyn
+  - czyli 4 p.ł. na 600 g przecieru (1 pł / 150 g przecieru)
+
+partia J:
+  - kontynuacja I po odlaniu 280 g
+  - plus dodatkowa p.ł. pektyn
+  - czyli 3 2/3 p.ł. na 400 g przecieru (1 pł / 110 g przecieru)
+
+
 ### 2022-07-16
 
 partia A:
