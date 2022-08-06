@@ -4,3 +4,4 @@
 - słoiki można myć w zmywarce. Umyte i zakręcone, czekały 12 godzin i były trochę wilgotne w środku, a mimo to nie było potem problemów
 - tak naprawdę dużą część eksperymentów wygodniej zrobić w domu. Wystarczy zabrać jakiś duży słój z przecierem porzeczkowym (być może wstępnie zapasteryzowanym)
 - słoiki wygodnie myje się w zmywarce (wchodzi 50-60 szt.), ale w przypadku zakrętek nie ma to raczej sensu bo spadają (lepiej w garnku).
+- należy mieć przygotowany spirytus do wycierania krawędzi słoików jak się upaprają podczas nalewania. To jednak jest konkretny problem.

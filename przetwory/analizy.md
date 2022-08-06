@@ -49,6 +49,11 @@ Wyniki:
   gęsta, wolałbym odrobinę rzadszą)
 - partia D dużo rzadsza niż B.
 - (po roku) C słodsze i bardziej malinowe od B; moim zdaniem lepsze
+- (nie jestem pewien czy to właściwe notatki, ale chyba tak, jeszcze rok póżniej):
+  D słaby, B zbyt mało malinowy, C trohę za słodki ale najlepsza konsystencja,
+  A najlepsze w smaku.
+- ale z kolei w jakichś wcześniejszych notatkach zapisałem chyba że D było
+  najlepsze i najbardziej "naturalne w smaku" (chociaż za rzadkie)... (D>A>B)
 
 
 2019 maliny
