@@ -39,11 +39,38 @@ Odparowywać 1 kg przecieru, co jakiś czas wylewając łyżeczkę na spodek i s
 Log
 ---
 
+### 2022-08-05
+
+partia L:
+- 1000 g przecieru
+- 300 g cukru
+- 8 pł pektyn (1 pł / 125 g)
+- 75 st
+
+partia M:
+- 1000 g partii L
+- plus 2 pł pektyn (wynikowo 1 pł / 95 g) i 30 g cukru (wynikowo 1:3)
+
+### 2022-08-04
+
+partia K:
+
+Zblendowałem 1050 g porzeczek, dodałem 700 g cukru (2:3) i gotowałem (bez
+pektyn) aż zostało 1230 g. Na początku było dużo piany, ale jak ją zdjąłem
+cedzakiem to potem się gotowało prawie samo.
+- odparowanie 30%
+- zawartość cukru 57%
+- bardzo gęsty i klejący, trudno było nalewać (chociaż do szerszych słoików fi 82 prawie się udawało)
+- wszystkie słoiki się zapaprały trochę, a niestety nie miałem spirytusu do
+  odkażania więc nie wiem jak z trwałością
+
 ### 2022-07-31
 
-Robione u mnie w domu maszyną babci z porzeczek przywiezionych przez tatę (końcówka sezonu).
-Przecier wyszedł dziwny. Jakiś mętny, dużo farfocli, i w ogóle mało było suchego odpadu.
-Maszyna też gorzej pracowała, może nie była dostatecznie czysta.
+Robione u mnie w domu wyciskarką pożyczoną od Renaty (SilverCrest z Lidla,
+podobna do babcinej) z porzeczek przywiezionych przez tatę (końcówka sezonu).
+Przecier wyszedł dziwny. Jakiś mętny, dużo farfocli, i w ogóle mało było
+suchego odpadu (tylko 1/5 masy wejściowej).  Maszyna też gorzej pracowała niż
+ta babci, różnica była wyraźna.
 
 partia H:
   - 800 g przecieru, 400 g cukru
@@ -60,6 +87,11 @@ partia J:
   - plus dodatkowa p.ł. pektyn
   - czyli 3 2/3 p.ł. na 400 g przecieru (1 pł / 110 g przecieru)
 
+Zrobiłem też eksperyment próbując odparować przecier prawie do sucha. Wziąłem
+~700 g przecieru i gotowałem tak długo, aż zupełnie zgęstniał (po drodze
+dodałem 70g cukru). Zostało ok. 260 g, czyli ok. 200 g samej masy porzeczkowej
+(70% odparowania).  Po wystygnięciu była zupełnie twarda (o wiele gęstsza niż
+potrzeba żeby uznać ją za "ściętą") i zupełnie niedobra.
 
 ### 2022-07-16
 
