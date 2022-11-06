@@ -49,6 +49,21 @@ Wariant odparowany: trzeba dobrać odpowiednią słodkość.
 Log
 ---
 
+### 2022
+
+Parametry:
+
+- (A) cukier 1:4, 80 st, 1 pł.łyż/400g
+- (B) cukier 1:4, 95 st, 1 pł.łyż/400g
+- (C) cukier 1:4, 80 st, 1 pł.łyż/250g
+- (D) cukier 1:3, 80 st, 1 pł.łyż/400g
+
+Obserwacje - degustacja po paru tygodniach:
+
+- A, B i C bardzo podobne, trudno określić różnicę
+- bardziej słodka wersja D mi trochę mniej smakuje
+
+
 ### 2021
 
 - użyłem pektyny sprzed dwóch lat (w zapachu i smaku wydaje się dobra)

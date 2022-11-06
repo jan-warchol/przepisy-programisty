@@ -39,6 +39,15 @@ Odparowywać 1 kg przecieru, co jakiś czas wylewając łyżeczkę na spodek i s
 Log
 ---
 
+### 2022 obserwacje i wnioski
+
+- D vs G: G jest moim zdaniem za mocne.
+- H vs I vs J: H było za rzadkie, J raczej za gęste. I najlepsze; może
+  ewentualnie pomiędzy I a J.
+- M i L raczej nic nie wniosły
+- ogólnie wszystkie partie niegotowane (a tylko podgrzane) mi nie pasowały.
+  Myślę, że to kwestia gorszej wyciskarki.
+
 ### 2022-08-05
 
 partia L:

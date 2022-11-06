@@ -6,14 +6,19 @@ Wnioski
 -------
 
 - Należy liczyć 6 słoiczków (215 ml) na 1 kg owoców.
+- nie ma sensu robić próbek w tych najmniejszych słoiczkach (płaskich 65 ml) -
+  bardzo szybko degradują (tracą kolor i są gorsze w smaku).
 
 
 
 TODO
 ----
 
-- jeśli 22C okaże się lepsza od 22D, to sprawdzić jaką trwałość miałby dżem podgrzany do 60 stopni. Wystarczy 0,5 kg przecieru; wlać do 120-ml słoiczków do sprawdzania co rok przez 3 lata.
-- porównać na słodkość 22A, 22E i 22F. Dobrać ilość pektyn tak żeby konsystencja była odpowiednia.
+- jeśli 22C okaże się lepsza od 22D, to sprawdzić jaką trwałość miałby dżem
+  podgrzany do 60 stopni. Wystarczy 0,5 kg przecieru; wlać do 120-ml słoiczków
+  do sprawdzania co rok przez 3 lata.
+- porównać na słodkość 22A, 22E i 22F. Dobrać ilość pektyn tak żeby
+  konsystencja była odpowiednia.
 
 
 Log
@@ -23,14 +28,22 @@ Log
 
 Z 8,9 kg owoców (po oczyszczeniu) wyszło 5,8 kg przecieru (2/3).
 
-A: 1 kg przecieru, 2/3 kg cukru, 4 płaskie łyżeczki pektyn, 75 st.
-B: 500 g przecieru, 270 g fruktozy, 60 g cukru, 1 pł. łyż. pektyn.
-C: 1:1, 68 st. przez 3-4 minuty
-D: 1:1, 88 st.
-E: 600 g przecieru, 480 g cukru (5:4), 1 pł. łyż. pektyn
-F: 1:1 (2800 g razem), 75 st. -> 12 słoiczków 215-mililitrowych
+- A: 1 kg przecieru, 2/3 kg cukru, 4 płaskie łyżeczki pektyn, 75 st.
+- B: 500 g przecieru, 270 g fruktozy, 60 g cukru, 1 pł. łyż. pektyn.
+- C: 1:1, 68 st. przez 3-4 minuty
+- D: 1:1, 88 st.
+- E: 600 g przecieru, 480 g cukru (5:4), 1 pł. łyż. pektyn
+- F: 1:1 (2800 g razem), 75 st. -> 12 słoiczków 215-mililitrowych
 
 Ponad 2h po wlaniu, kiedy wydaje się że już wystygło, dżemy nadal są płynne.
+Ostatecznie A i B pozostały płynne, a C, D, E i F się ścięły.
+
+Obserwacje po 3,5 miesiąca:
+- dżem w słoiczkach 65 ml bardzo zdegradował
+- C vs D: trudno powiedzieć
+- E vs F: chyba mimo wszystko F lepsze, ale może to kwestia tego że dżem
+  zdegradował
+
 
 ### 2021-07
 
