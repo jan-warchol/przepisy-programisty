@@ -17,7 +17,7 @@ _na dużą tortownicę (27-29 cm średnicy)_
 - 5 dużych jajek (razem ok. 330 g)
 - 1/2 kostki Kasi (125 g)
 - 1 szkl. drobnego cukru do wypieków (220g)
-- 1 op. cukru waniliowego (ok. 15 g)
+- 1 op. cukru wanilinowego (ok. 15 g)
 - 1 budyń waniliowy bez cukru (40g)
 - paczka okrągłych biszkoptów, np. Petitki (ok. 100-120 g)
 - 5 ml aromatu cytrynowego albo pomarańczowego
@@ -41,7 +41,7 @@ na dnie jedną warstwę biszkoptów.
 
 Dokładnie oddzielić żółtka od białek.
 
-Żółtka utrzeć z cukrem i cukrem waniliowym na puszystą masę, dodać tłuszcz,
+Żółtka utrzeć z cukrem i cukrem wanilinowym na puszystą masę, dodać tłuszcz,
 ucierać, następnie budyń (w proszku), ser (po 500 g) oraz śmietanę.  Uwaga:
 zbyt długie miksowanie może sprawić, że sernik potem opadnie.
 
