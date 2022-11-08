@@ -1,6 +1,8 @@
 🌍
 *[Polski](README.md) ∙ [English](README-en.md)*
 
+> **Info (2022.11)** Repozytorium trochę mi się ostatnio zabałaganiło, postaram się je ogarnąć w najbliższym czasie.
+
 Przepisy, notatki i kuchenne analizy
 ------------------------------------
 
