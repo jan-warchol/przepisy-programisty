@@ -8,20 +8,24 @@ Przepisy, notatki i kuchenne analizy
 
 Lubię eksperymentować w kuchni poszukując najlepszego przepisu na sernik,
 ciasteczka, przetwory itp. Wyniki zapisuję tutaj, starając się żeby były
-dokładne i powtarzalne. Może kiedyś powstanie z tego książka kucharska :)
+dokładne i powtarzalne.
 
 Spis treści
 -----------
 
-* [Sernik puszysty ("sernik Janka", "sernik Codilime")](sernik-codilime)
-* [Ciasteczka ryżowo-kokosowe](ciasteczka-kokosowe)
+Polecane:
+* [Sernik puszysty](sernik) ("sernik Janka", "sernik Codilime")
+* [Ciasteczka ryżowo-kokosowe](ciasteczka-kokosowe) Asi Czerwińskiej
+
+Różne:
 * [Przetwory](przetwory)
 * [Pleśniak](pleśniak)
-* [Sałatka ananasowo-ryżowa](sałatka-ananasowo-ryżowa)
-* [Czekoladowiec](contrib/czekoladowiec)
-* [Kruche z malinami](contrib/kruche-ciasto-z-malinami)
-* [Lemon curd](contrib/lemon-curd)
-* [Ciasto kruche](ciasto-kruche)
+
+Work-in-progress:
+* [Sałatka ananasowo-ryżowa](_inbox/sałatka-ananasowo-ryżowa)
+* [Czekoladowiec](_inbox/czekoladowiec)
+* [Kruche z malinami](_inbox/kruche-ciasto-z-malinami)
+* [Lemon curd](_inbox/lemon-curd)
 
 Jak czytać te notatki
 ---------------------
@@ -34,10 +38,13 @@ Jak czytać te notatki
 Zapraszam do dołączenia!
 ------------------------
 
+Może kiedyś powstanie z tego książka kucharska :) chociaż jak dotąd repozytorium
+jest aktualizowane dość nieregularnie. Tym niemniej:
+
 * jeśli coś jest niejasne, otwórz issue.
-* jeśli masz propozycję poprawek (albo nowego przepisu), stwórz pull request.
+* jeśli masz propozycję poprawek (albo nowego przepisu), otwórz pull request.
 * zachęcam do przeprowadzania własnych eksperymentów i dzielenia się wynikami :-)
-* jestem otwarty na Pull Requesty z tłumaczeniami.
+* jestem otwarty na pull requesty z tłumaczeniami.
 
 Jednostki
 ---------
