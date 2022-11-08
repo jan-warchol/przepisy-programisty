@@ -10,6 +10,19 @@ Lubię eksperymentować w kuchni poszukując najlepszego przepisu na sernik,
 ciasteczka, przetwory itp. Wyniki zapisuję tutaj, starając się żeby były
 dokładne i powtarzalne. Może kiedyś powstanie z tego książka kucharska :)
 
+Spis treści
+-----------
+
+* [Sernik puszysty ("sernik Janka", "sernik Codilime")](sernik-codilime)
+* [Ciasteczka ryżowo-kokosowe](ciasteczka-kokosowe)
+* [Przetwory](przetwory)
+* [Pleśniak](pleśniak)
+* [Sałatka ananasowo-ryżowa](sałatka-ananasowo-ryżowa)
+* [Czekoladowiec](contrib/czekoladowiec)
+* [Kruche z malinami](contrib/kruche-ciasto-z-malinami)
+* [Lemon curd](contrib/lemon-curd)
+* [Ciasto kruche](ciasto-kruche)
+
 Jak czytać te notatki
 ---------------------
 
