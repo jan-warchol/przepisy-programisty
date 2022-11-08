@@ -11,10 +11,10 @@ Kruche ciasto
 
 ##### Składniki
 
- -  2,5 szklanki mąki pszennej (może być również mąka krupczatka)
+ -  2,5 szklanki (400 g) mąki pszennej (może być również mąka krupczatka)
  -  250 g masła lub margaryny, zimnego
  -  2 łyżeczki proszku do pieczenia
- -  3 łyżki cukru pudru
+ -  3 łyżki cukru pudru (25 g)
  -  5 żółtek
 
 
@@ -41,10 +41,10 @@ Delikatna budyniowa pianka
 ##### Składniki
 
  -  5 białek
- -  1 szklanka drobnego cukru do wypieków
+ -  1 szklanka drobnego cukru do wypieków (220 g)
  -  1 opakowanie cukru wanilinowego (16 g)
  -  2 opakowania budyniu waniliowego lub śmietankowego, bez cukru (2 x 40 g)
- -  1/2 szklanki oleju słonecznikowego
+ -  1/2 szklanki oleju słonecznikowego (125 ml)
  -  500 g malin (mogą być mrożone, nie rozmrażamy ich wcześniej)
  -  cukier puder do oprószenia
 

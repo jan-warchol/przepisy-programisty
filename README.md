@@ -26,3 +26,10 @@ Zapraszam do dołączenia!
 * zachęcam do przeprowadzania własnych eksperymentów i dzielenia się wynikami :-)
 * jestem otwarty na Pull Requesty z tłumaczeniami.
 
+Jednostki
+---------
+
+Staram się podawać gramatury wszystkich produktów, ale czasami mam przepis ze
+źródła w którym ich nie ma i nie udało mi się uściślić danych z autorem. W
+przypadkach wątpliwych korzystam z [przelicznika z bloga Moje
+Wypieki](https://mojewypieki.com/info/przelicznik-kulinarny)

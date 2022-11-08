@@ -2,7 +2,7 @@ _Autor przepisu: Kacper Peek_
 
 ## Składniki
 
-- 2 gorzkie czekolady (60-70%)
+- 200 g gorzkiej czekolady (60-70%)
 - kostka masła (200 g)
 - 6 jajek
 - cukier
