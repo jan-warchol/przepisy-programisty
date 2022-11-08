@@ -1,3 +1,5 @@
+> TODO: wyodrębnić przepis z notatek.
+
 Babcia robi czasem maliny i/lub jeżyny przecierane ("galaretkę", bez pestek) -
 mi osobiście średnio leżą.
 

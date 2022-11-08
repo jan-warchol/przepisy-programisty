@@ -1,3 +1,5 @@
+> TODO: wyodrębnić przepis z notatek.
+
 2022-07-18
 ----------
 

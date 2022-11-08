@@ -1,3 +1,5 @@
+> TODO: wyodrębnić przepis z notatek.
+
 Porzeczki czarne
 ================
 
