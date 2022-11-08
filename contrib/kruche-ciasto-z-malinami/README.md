@@ -1,4 +1,4 @@
-[Źródło](http://www.mojewypieki.com/post/kruche-ciasto-z-malinami-i-lekka-budyniowa-pianka)
+[Źródło](https://mojewypieki.com/przepis/kruche-ciasto-z-malinami-i-lekka-budyniowa-pianka)
 
 Kruche ciasto z malinami i lekką budyniową pianką
 =================================================

@@ -19,7 +19,7 @@ Składniki
 * 1 płaska łyżeczka proszku do pieczenia
 * 1 kostka masła (200 g)
 * 3 średnie jajka (ok. 180 g)
-* (opcjonalnie) dżem do dekoracji
+* (opcjonalnie) dżem lub nutella do dekoracji
 
 
 Przygotowanie
