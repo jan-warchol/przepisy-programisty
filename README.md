@@ -1,6 +1,8 @@
 🌍
 *[Polski](README.md) ∙ [English](README-en.md)*
 
+![ciasta](https://github.com/jan-warchol/przepisy-programisty/releases/download/v1.0-beta-photos/ciasta.png)
+
 Sernik i inne przepisy
 ======================
 

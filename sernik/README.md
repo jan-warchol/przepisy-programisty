@@ -1,6 +1,8 @@
 Sernik puszysty (sernik z Codilime)
 ===================================
 
+![sernik](https://github.com/jan-warchol/przepisy-programisty/releases/download/v1.0-beta-photos/sernik.3.jpg)
+
 _Nazwany od firmy [CodiLime](https://www.codilime.com/), w której pracowałem i
 której dział HR sfinansował część badań nad tym przepisem._
 
