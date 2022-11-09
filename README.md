@@ -37,6 +37,7 @@ Spis treści
 * Różne
     * [Sałatka ananasowo-ryżowa](_inbox/sałatka-ananasowo-ryżowa)
     * 🚧 [Lemon curd](_inbox/lemon-curd)
+    * 🚧 [Naleśniki z truskawkami](_inbox/naleśniki-z-truskawkami)
 
 
 
