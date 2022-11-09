@@ -1,3 +1,4 @@
+> TODO: wyodrębnić przepis z notatek.
 
 Porzeczki białe
 ===============

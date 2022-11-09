@@ -1,48 +1,63 @@
 🌍
 *[Polski](README.md) ∙ [English](README-en.md)*
 
-> **Info (2022.11)** Repozytorium trochę mi się ostatnio zabałaganiło, postaram się je ogarnąć w najbliższym czasie.
+Sernik i inne przepisy
+======================
 
-Przepisy, notatki i kuchenne analizy
-------------------------------------
-
-Lubię eksperymentować w kuchni poszukując najlepszego przepisu na sernik,
-ciasteczka, przetwory itp. Wyniki zapisuję tutaj, starając się żeby były
-dokładne i powtarzalne. Może kiedyś powstanie z tego książka kucharska :)
+Jestem znany głównie z **sernika**, który doskonalę od lat, ale eksperymentuję
+też trochę z innymi przepisami oraz przetworami. Staram się zgłębić kuchenne
+**_metody_** – mechanikę ubijania kremu i białek, pasteryzowania dżemów etc.
+i zrozumieć, od czego zależą ich rezultaty. Tu są moje notatki. 📝
 
 Spis treści
 -----------
 
-* [Sernik puszysty ("sernik Janka", "sernik Codilime")](sernik-codilime)
-* [Ciasteczka ryżowo-kokosowe](ciasteczka-kokosowe)
-* [Przetwory](przetwory)
-* [Pleśniak](pleśniak)
-* [Sałatka ananasowo-ryżowa](sałatka-ananasowo-ryżowa)
-* [Czekoladowiec](contrib/czekoladowiec)
-* [Kruche z malinami](contrib/kruche-ciasto-z-malinami)
-* [Lemon curd](contrib/lemon-curd)
-* [Ciasto kruche](ciasto-kruche)
+⭐ – polecane  
+🚧 – work in progress  
+
+* Ciasta i ciasteczka
+    * ⭐ 🚧  [**Sernik puszysty**](sernik)
+      (_sernik Janka_, _sernik Codilime_) – 70+ iteracji!
+    * ⭐ [**Ciasteczka kokosowe**](ciasteczka-kokosowe) –
+      proste i szybkie, dobre na początek
+    * [Pleśniak](pleśniak)
+* Przetwory
+    * ⭐ [**Dżem z czarnej porzeczki**](przetwory/porzeczki-czarne/)
+    * ⭐ [**Dżem malinowy i/lub jeżynowy**](przetwory/maliny-i-jeżyny/)
+    * 🚧 [Dżem z borówki amerykańskiej](przetwory/borówki/)
+    * 🚧 [Dżem borówkowo-malinowy](przetwory/borówki-z-malinami/)
+    * 🚧 [Dżem agrestowy](przetwory/agrest/)
+    * 🚧 [Żurawina](przetwory/żurawiny)
+* Przepisy od innych
+    * [Czekoladowiec](_inbox/czekoladowiec)
+    * [Kruche z malinami](_inbox/kruche-ciasto-z-malinami)
+* Różne
+    * [Sałatka ananasowo-ryżowa](_inbox/sałatka-ananasowo-ryżowa)
+    * 🚧 [Lemon curd](_inbox/lemon-curd)
+
+
 
 Jak czytać te notatki
 ---------------------
 
-* każdy folder to osobny przepis
-* obowiązująca wersja przepisu jest w `README.md`
-* spis eksperymentów i ich wyniki są w `analizy.md`
-* lista zagadnień do sprawdzenia jest w `todo.md`
+* każdy przepis jest w osobnym folderze
+* obowiązująca wersja przepisu (o ile jest gotowa) jest w `README.md`
+* dodatkowe notatki, eksperymenty i ich wyniki są w `analizy.md`
 
-Zapraszam do dołączenia!
-------------------------
+Zapraszam! :-)
+--------------
+
+Może kiedyś powstanie z tego książka kucharska ;-) chociaż jak dotąd
+repozytorium jest aktualizowane dość nieregularnie. Tym niemniej:
 
 * jeśli coś jest niejasne, otwórz issue.
-* jeśli masz propozycję poprawek (albo nowego przepisu), stwórz pull request.
-* zachęcam do przeprowadzania własnych eksperymentów i dzielenia się wynikami :-)
-* jestem otwarty na Pull Requesty z tłumaczeniami.
+* jeśli masz propozycję poprawek (albo nowego przepisu), otwórz pull request.
+* zachęcam do dzielenia się wiedzą o kuchennych technikach i _metodach_ :-)
 
-Jednostki
----------
+PS: jednostki
+-------------
 
 Staram się podawać gramatury wszystkich produktów, ale czasami mam przepis ze
 źródła w którym ich nie ma i nie udało mi się uściślić danych z autorem. W
 przypadkach wątpliwych korzystam z [przelicznika z bloga Moje
-Wypieki](https://mojewypieki.com/info/przelicznik-kulinarny)
+Wypieki](https://mojewypieki.com/info/przelicznik-kulinarny).

@@ -1,3 +1,5 @@
+> TODO: wyodrębnić przepis z notatek.
+
 2019-08 borówki+maliny
 ----------------------
 
