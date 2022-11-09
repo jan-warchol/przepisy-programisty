@@ -22,8 +22,8 @@ Spis treści
       proste i szybkie, dobre na początek
     * [Pleśniak](pleśniak)
 * Przetwory
-    * 🚧 [Dżem z czarnej porzeczki](przetwory/porzeczki-czarne/)
-    * 🚧 [Dżem malinowy i/lub jeżynowy](przetwory/maliny-i-jeżyny/)
+    * ⭐ [**Dżem z czarnej porzeczki**](przetwory/porzeczki-czarne/)
+    * ⭐ [**Dżem malinowy i/lub jeżynowy**](przetwory/maliny-i-jeżyny/)
     * 🚧 [Dżem z borówki amerykańskiej](przetwory/borówki/)
     * 🚧 [Dżem borówkowo-malinowy](przetwory/borówki-z-malinami/)
     * 🚧 [Dżem agrestowy](przetwory/agrest/)

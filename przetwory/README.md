@@ -1,6 +1,3 @@
-🌍
-*[Polski](README.md)*
-
 Przetwory owocowe
 =================
 

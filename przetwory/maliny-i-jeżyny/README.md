@@ -1,30 +1,29 @@
-> TODO: wyodrębnić przepis z notatek.
+Dżem z malin i/lub jeżyn
+========================
 
-Babcia robi czasem maliny i/lub jeżyny przecierane ("galaretkę", bez pestek) -
-mi osobiście średnio leżą.
+_To naprawdę jest smak lata zamknięty w słoiku. Bije na głowę dżemy ze sklepu._
 
-2022 maliny
------------
+Składniki[^1]:
+- 1 kg malin albo jeżyn, albo mieszanki tych owoców
+- 333 g cukru
+- 1 op. dżemixu 3:1 lub żelfixu 3:1
 
-- wg instrukcji dżemiksu
-- wspaniałe!
-- można spróbować mniej cukru
+Przygotowanie:
+- owoce rozgnieść np. tłuczkiem do ziemniaków (ewentualnie ręką)
+- dalej zgodnie z instrukcją na opakowaniu dżemixu[^2]
+- rozlać do wyparzonych słoiczków[^3]
 
-2022 jeżyny
------------
+<!-- uwagi -->
 
-- 2 partie - jedna ze zmniejszoną zawartością cukru (1:10?), druga "normalna" (1:3?)
-- mniej słodkie bardzo dobre, może nawet lepsze od tych słodkich
+[^1]: można też wziąć podwójną porcję naraz. Potrójnej nie, trudno operować
+  takim wielkim garem i za wolno się grzeje.
 
-2019 maliny
------------
+[^2]: moment w którym dżem zaczyna wrzeć jest trudny do uchwycenia. Z tego co
+  pamiętam przyjmowałem że następuje to ok. 1 minuty od momentu, kiedy
+  bulgotanie staje się regularne. Myślę, że nie ma to większego znaczenia.
 
-parametry
-
-- wszystko zgodnie z instrukcją dżemiksu
-
-wyniki
-
-- wspaniałe!
-- świetna konsystencja
-- świetny balans słodyczy i kwaśności
+[^3]: ze względu na obecność pestek dżem trudno nalewać, więc warto użyć
+  słoików o dużym otworze (np. takich z zakrętką Ø 82 mm). Polecam szczególnie
+  [te słoiki](https://www.olx.pl/d/oferta/sloik-235ml-sloiki-235ml-sloik-235-ml-sloiki-235-ml-fi82-miod-wyroby-CID628-IDyzL2m.html#d3fca3584b)
+  – pomimo dużego otworu mają niewielką pojemość, w sam raz na dżem. Kupiłem
+  pięćdziesiąt :D
