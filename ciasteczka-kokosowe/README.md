@@ -37,5 +37,6 @@ Przygotowanie
 Uwagi
 -----
 
-Pracuję nad wegańską wersją przepisu - patrz gałąź
+Eksperymentowałem trochę z wegańską wersją przepisu - na razie rezultaty nie
+były zadowalające. Patrz gałąź
 [`weganizacja`](https://github.com/jan-warchol/przepisy-programisty/blob/weganizacja/ciasteczka-kokosowe/todo.md#wersja-wega%C5%84ska).

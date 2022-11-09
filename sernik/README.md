@@ -1,11 +1,8 @@
-🌍
-*[Polski](README.md)*
-
-Sernik Codilime
-===============
+Sernik puszysty (sernik z Codilime)
+===================================
 
 _Nazwany od firmy [CodiLime](https://www.codilime.com/), w której pracowałem i
-która sfinansowała badania nad tym przepisem._
+której dział HR sfinansował część badań nad tym przepisem._
 
 Składniki na ciasto
 -------------------
@@ -115,3 +112,9 @@ Potrzebne przybory
 * garnek z grubym dnem
 * waga kuchenna
 
+
+Wyniki eksperymentów
+====================
+
+Większość jest zapisana w [tym arkuszu
+kalkulacyjnym](https://docs.google.com/spreadsheets/d/1aKzPybyZ_rkO5PvSuf1BpetLQMuR-4EUkcdXgS6nt7I/edit#gid=573677020).
