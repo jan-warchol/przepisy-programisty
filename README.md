@@ -22,6 +22,7 @@ Spis treści
       (_sernik Janka_, _sernik Codilime_) – 70+ iteracji!
     * ⭐ [**Ciasteczka kokosowe**](ciasteczka-kokosowe) –
       proste i szybkie, dobre na początek
+    * 🚧 [Tort owocowy](_inbox/tort-owocowy)
     * [Pleśniak](pleśniak)
 * Przetwory
     * ⭐ [**Dżem z czarnej porzeczki**](przetwory/porzeczki-czarne/)
