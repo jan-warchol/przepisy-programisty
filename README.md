@@ -24,6 +24,7 @@ Spis treści
       proste i szybkie, dobre na początek
     * 🚧 [Tort owocowy](_inbox/tort-owocowy)
     * [Pleśniak](pleśniak)
+    * 🚧 🚧 [Zaginiony przepis na sernik babci](_inbox/sernik-fiordy-norweskie)
 * Przetwory
     * ⭐ [**Dżem z czarnej porzeczki**](przetwory/porzeczki-czarne/)
     * ⭐ [**Dżem malinowy i/lub jeżynowy**](przetwory/maliny-i-jeżyny/)
