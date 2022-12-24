@@ -65,6 +65,11 @@ Obserwacje - degustacja po paru tygodniach:
 - A, B i C bardzo podobne, trudno określić różnicę
 - bardziej słodka wersja D mi trochę mniej smakuje
 
+po 4 miesiącach:
+- próbki A, C i D zapleśniały!! Fakt, że były przechowywane w temperaturze
+  pokojowej, a nie w piwnicy. C i D zapleśniały bardziej, A tylko trochę.
+- B smaczne
+
 
 ### 2021
 

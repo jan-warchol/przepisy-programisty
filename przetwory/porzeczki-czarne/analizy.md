@@ -44,6 +44,10 @@ Obserwacje po 3,5 miesiąca:
 - E vs F: chyba mimo wszystko F lepsze, ale może to kwestia tego że dżem
   zdegradował
 
+Obserwacja po 5 miesiącach:
+- C średni - mocno słodki, malo porzeczkowy. Ale może dlatego, że był oznaczony
+  jako gorzej zamknięty (x)
+
 
 ### 2021-07
 
