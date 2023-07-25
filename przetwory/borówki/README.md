@@ -28,6 +28,12 @@ Wariant odparowany:
   - przy 1:10 i 30% odparowania, 1 pł. łyżeczka na 2 kg owoców to za mało (21J)
   - przy 1:10, 1 p.ł. na 400 g owoców to za dużo (21B)
 
+- dobrze robić przynajmniej 1 kg owoców w partii. Jak jest mniej to wychodzi
+  mało, jest problem z nalewaniem, łatwo się przypala etc.
+- pojemności słoiczków:
+  - tester 60g
+  - mały 120g
+  - średni szeroki 230g
 
 TODO
 ----
@@ -50,6 +56,20 @@ Wariant odparowany: trzeba dobrać odpowiednią słodkość.
 
 Log
 ---
+
+### 2023
+
+Parametry:
+
+- (A) cukier 1:10, 20% odparowania, 1 p.ł./kg
+- (B) cukier 1:10, 33% odparowania, 1 p.ł./kg
+- (C) cukier 1:6, 20% odparowania, 1 p.ł./kg
+- (D) cukier 1:6, 33% odparowania, 1 p.ł./kg
+
+Obserwacje:
+
+- A dobrze się nalewa, nawet do węższych słoików
+- B nalewa się znośnie, jakoś do mniejszych słoików wepchnąłem
 
 ### 2022
 
