@@ -48,6 +48,8 @@ Obserwacja po 5 miesiącach:
 - C średni - mocno słodki, malo porzeczkowy. Ale może dlatego, że był oznaczony
   jako gorzej zamknięty (x)
 
+Obserwacja po 1.5 roku:
+- C i D bardzo podobne, oba dobre, D chyba ciut łagodniejszy
 
 ### 2021-07
 
