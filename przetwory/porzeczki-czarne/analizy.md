@@ -50,6 +50,7 @@ Obserwacja po 5 miesiącach:
 
 Obserwacja po 1.5 roku:
 - C i D bardzo podobne, oba dobre, D chyba ciut łagodniejszy
+- D wyraźnie lepszy od E, E za słodki (chociaż może na degradację smaku wpłynął mały słoiczek)
 
 ### 2021-07
 
