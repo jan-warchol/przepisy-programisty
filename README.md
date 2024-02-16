@@ -18,7 +18,7 @@ Spis treści
 🚧 – work in progress  
 
 * Ciasta i ciasteczka
-    * ⭐ 🚧  [**Sernik puszysty**](sernik)
+    * ⭐ [**Sernik puszysty**](sernik)
       (_sernik Janka_, _sernik Codilime_) – 70+ iteracji!
     * ⭐ [**Ciasteczka kokosowe**](ciasteczka-kokosowe) –
       proste i szybkie, dobre na początek
