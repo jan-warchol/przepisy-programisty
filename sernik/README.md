@@ -47,7 +47,7 @@ Przygotowanie
 - Dokładnie oddzielić żółtka od białek.
 
 - Żółtka zmiksować z cukrem wanilinowym, masłem i budyniem w proszku, następnie
-  dodać ser (najlepiej w dwóch partiach) i na końcu śmietanę.
+  dodać ser (najlepiej w dwóch partiach), aromat i na końcu śmietanę.
 
 - Powoli wlać mleko cały czas mieszając/miksując.
 
