@@ -48,6 +48,8 @@ Log
 - M i L raczej nic nie wniosły
 - ogólnie wszystkie partie niegotowane (a tylko podgrzane) mi nie pasowały.
   Myślę, że to kwestia gorszej wyciskarki.
+- E ostatecznie ścięły się po dłuższym czasie w piwnicy
+- ogólnie partie H, I, J słabe, nie chciałem ich potem jeść
 
 ### 2022-08-05
 
@@ -132,7 +134,7 @@ partia D:
 partia E:
   - 840 g przecieru + 560 g curku + 1 płaska łyżeczka pektyn
   - podgrzany do 75 st
-  - płynne
+  - bardzo długo płynne, chociaż ostatecznie się ścięły po wielu dniach
 
 partia F:
   - złączone partie A i C (razem 1 kg) z dodatkiem 125 g cukru (tak żeby wynikowo było 1:2) i 4 płaskie łyżeczki pektyn

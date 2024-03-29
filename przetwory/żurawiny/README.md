@@ -42,3 +42,8 @@ Partia B:
 - po kilku minutach zaczęła się rozpadać
 - nie chciałem czekać bardzo długo, więc rozgniotłem tłuczkiem do ziemniaków
 - łączny czas ~25 min od dodania gruszek; waga po 25 min: ~2080 (~8% odparowania)
+
+wynik:
+- bardzo smaczne
+- mogłoby być, hmm, chyba nieco bardziej żurawinowe? Albo nieco mniej słodkie?
+  Pamiętam że coś bym trochę zmienił ale nie pamiętam w którą stronę.

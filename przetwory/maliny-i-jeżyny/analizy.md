@@ -6,7 +6,7 @@ mi osobiście średnio leżą.
 
 Zbierane na początku września, czekały 2 dni w lodówce na przetworzenie.
 
-- partia A: 1100 g jeżyn, 240 g cukru (1:5), 1 op żelfixu, wykonanie zgodnie z
+- partia A: 1100 g jeżyn, 240 g cukru (1:4.5), 1 op żelfixu, wykonanie zgodnie z
   instrukcją.
 
 - partia B: 1650 g jeżyn, ok. 9 g (ok. 3 pł. łyż) pektyn, ok. 30 g cukru
@@ -14,6 +14,14 @@ Zbierane na początku września, czekały 2 dni w lodówce na przetworzenie.
 
 - partia C: część partii B poddana dodatkowej pasteryzacji po rozlaniu do
   słoików (45 minut w 90 st. w piekarniku z termoobiegiem).
+
+
+Obserwacje po ok. pół roku:
+- partia A podobna do jeżyn z zeszłego roku; w moim odczuciu byłyby lepsze
+  gdyby były mniej słodkie.
+- partie B i C niezłe ale jednak za mało słodkie. Nie wyczuwam różnicy pomiędzy
+  nimi.
+- któryś ze słoiczków B lub C dość szybko zapleśniał po otwarciu.
 
 
 2023 maliny
