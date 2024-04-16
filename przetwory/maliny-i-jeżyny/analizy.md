@@ -34,6 +34,10 @@ Obserwacje po ok. pół roku:
 - partia C (czarne zakrętki): 1 kg malin, 100 g curku + 6 pł. łyż. pektyn,
   zagotowane
 
+Obserwacje po 7 miesiącach:
+- partia A i B bardzo podobne, B nieco rzadka, A ciut kwaśniejsza, B może
+  trochę bardziej naturalna w smaku i nieco lepsza?
+
 2022 maliny
 -----------
 
