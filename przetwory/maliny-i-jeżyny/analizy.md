@@ -37,6 +37,8 @@ Obserwacje po ok. pół roku:
 Obserwacje po 7 miesiącach:
 - partia A i B bardzo podobne, B nieco rzadka, A ciut kwaśniejsza, B może
   trochę bardziej naturalna w smaku i nieco lepsza?
+- partia C słaba, o wiele za gęsta, niesmaczna (za mało słodka? w ogóle jakaś
+  dziwna) i otwarty słoiczek zaczął trochę pleśnieć
 
 2022 maliny
 -----------
