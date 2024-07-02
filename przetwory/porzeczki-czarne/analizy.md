@@ -24,6 +24,11 @@ TODO
 Log
 ---
 
+### 2024-07-02
+
+1.6 kg porzeczek czarnych (po oczyszczeniu) i 800 g cukru. Bez wyciskarki,
+zblendowane i ~zagotowane (termometr pokazał 90 stopni, regularnie bąbelkowały).
+
 ### 2022-07-16
 
 Z 8,9 kg owoców (po oczyszczeniu) wyszło 5,8 kg przecieru (2/3).
