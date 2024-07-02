@@ -71,6 +71,12 @@ Obserwacje:
 - A dobrze się nalewa, nawet do węższych słoików
 - B nalewa się znośnie, jakoś do mniejszych słoików wepchnąłem
 
+po roku:
+- Borówka 23B jest pyszna, bor23D smaczna ale za gęsta (23b lepsza)
+- D bardzo podeszło Ani, mówi że dobrze się nadaje do użycia w wypiekach
+  (nie robiła porównań)
+- C dobre, ale rzadkie
+
 ### 2022
 
 Parametry:
