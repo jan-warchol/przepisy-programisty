@@ -28,6 +28,7 @@ Log
 
 1.6 kg porzeczek czarnych (po oczyszczeniu) i 800 g cukru. Bez wyciskarki,
 zblendowane i ~zagotowane (termometr pokazał 90 stopni, regularnie bąbelkowały).
+Do szerokich słoików nawet dało radę je nalać, jak się to robiło ostrożnie. 
 
 ### 2022-07-16
 
