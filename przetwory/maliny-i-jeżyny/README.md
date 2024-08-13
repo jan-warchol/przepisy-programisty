@@ -4,7 +4,7 @@ Dżem z malin i/lub jeżyn
 _To naprawdę jest smak lata zamknięty w słoiku. Bije na głowę dżemy ze sklepu._
 
 Składniki[^1]:
-- 1 kg malin albo jeżyn, albo mieszanki tych owoców
+- 1 kg malin albo jeżyn, albo mieszanki tych owoców[^4]
 - 333 g cukru
 - 1 op. dżemixu 3:1 lub żelfixu 3:1
 
@@ -17,6 +17,10 @@ Przygotowanie:
 
 [^1]: można też wziąć podwójną porcję naraz. Potrójnej nie, trudno operować
   takim wielkim garem i za wolno się grzeje.
+
+[^4]: zarówno maliny jak i jeżyny, zwłaszcza takie niepryskane jak ma babcia,
+  mogą być bardzo nietrwałe. Dżem najlepiej przygotować tego samego dnia kiedy
+  były zebrane, albo najpóźniej następnego.
 
 [^2]: moment w którym dżem zaczyna wrzeć jest trudny do uchwycenia. Z tego co
   pamiętam przyjmowałem że następuje to ok. 1 minuty od momentu, kiedy

@@ -1,6 +1,19 @@
 Babcia robi czasem maliny i/lub jeżyny przecierane ("galaretkę", bez pestek) -
 mi osobiście średnio leżą.
 
+2024 maliny
+-----------
+
+- czekały 2 dni w lodówce i niestety musiałem sporą część wyrzucić bo zaczęły
+  się psuć :/ Było w sumie 1170 g malin
+
+- partia A (czerwone zakrętki): 1170 g mailn, 4.5 pł. łyżeczki pektyn (trochę
+  zleżałych), 230 g cukru (1:5), cukier z pektynami dodany niedługo po
+  wstawieniu na ogień, zagotowane.
+
+- partia B (czarne/niebieskie zakrętki): do partii A dodałem 80 g cukru (tak że
+  łącznie było 1:3), ponownie zagotowałem.
+
 2023 jeżyny
 -----------
 
