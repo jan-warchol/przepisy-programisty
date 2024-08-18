@@ -57,6 +57,14 @@ Wariant odparowany: trzeba dobrać odpowiednią słodkość.
 Log
 ---
 
+
+### 2024
+
+- (A) 1 kg borówek, 230g porzeczki 22C, 230g porzeczki 22D -> ok 230 g cukru (~1:5).
+  Bez pektyn. Zagotowany.
+- (B) 1360 g borówek, 340 g cukru, ~3,5 pł. łyżeczki pektyn. Zagotowany.
+
+
 ### 2023
 
 Parametry:
