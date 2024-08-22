@@ -102,7 +102,12 @@ Obserwacje - degustacja po paru tygodniach:
 po 4 miesiącach:
 - próbki A, C i D zapleśniały!! Fakt, że były przechowywane w temperaturze
   pokojowej, a nie w piwnicy. C i D zapleśniały bardziej, A tylko trochę.
+  Chyba były jakieś trefne skoro próbki otwarte w 2024 były w porządku.
 - B smaczne
+
+po 2 latach:
+- C naprawdę dobre, nie czuć degradacji, konsystencja w sam raz
+- D dobre (ale wolę mniej słodkie C)
 
 
 ### 2021
