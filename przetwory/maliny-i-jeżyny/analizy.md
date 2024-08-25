@@ -14,6 +14,11 @@ mi osobiście średnio leżą.
 - partia B (czarne/niebieskie zakrętki): do partii A dodałem 80 g cukru (tak że
   łącznie było 1:3), ponownie zagotowałem.
 
+maliny+jeżyny
+
+- 340 g jeżyn + 320 g malin, 150 g cukru, 2 pł. łyżeczki pektyn. Zmiksowane i
+  zagotowane. Czerwone zakrętki.
+
 2023 jeżyny
 -----------
 

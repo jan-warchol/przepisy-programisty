@@ -1,5 +1,22 @@
 > TODO: wyodrębnić przepis z notatek.
 
+2024 borówki + maliny
+----------------------------
+
+- partia A: 600 g borówki zmiksowanej + 300 g malin rozgniecionych,
+  180 g cukru (1:5), 3 pł. łyżeczki pektyn (dość starych). Zagotowane.
+  Czerwone zakrętki.
+- partia B: do 450 g partii A dodane 50 g curku (wynikowa proporcja 1:3).
+  Zagotowane ponownie. Złote zakrętki.
+
+2024 borówki + jeżyny
+----------------------------
+
+- 500 g zmiksowanej borówki + 500 g rozgniecionych jeżyn,
+  250 g cukru, 3 pł. łyżeczki pektyn (dość starych). Zagotowane.
+  Czarne i kraciaste zakrętki.
+
+
 2019-08 borówki+maliny
 ----------------------
 
