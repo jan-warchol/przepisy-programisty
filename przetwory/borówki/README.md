@@ -60,9 +60,15 @@ Log
 
 ### 2024
 
+Parametry:
+
 - (A) 1 kg borówek, 230g porzeczki 22C, 230g porzeczki 22D -> ok 230 g cukru (~1:5).
   Bez pektyn. Zagotowany.
-- (B) 1360 g borówek, 340 g cukru, ~3,5 pł. łyżeczki pektyn. Zagotowany.
+- (B) 1360 g borówek, 340 g cukru (4:1), ~3,5 pł. łyżeczki pektyn. Zagotowany.
+
+Obserwacje po tygodniu:
+- A: ciekawe, ale nie jest to jakiś przełom
+- B: w porządku.
 
 
 ### 2023
@@ -106,8 +112,10 @@ po 4 miesiącach:
 - B smaczne
 
 po 2 latach:
-- C naprawdę dobre, nie czuć degradacji, konsystencja w sam raz
-- D dobre (ale wolę mniej słodkie C)
+- A i B praktycznie takie same, nie wyczuwam różnicy
+- C dobre, lepiej się trzymają niż A i B (i trochę lepsze w smaku),
+  konsystencja w sam raz
+- D w porządku (ale wolę mniej słodkie C)
 
 
 ### 2021
