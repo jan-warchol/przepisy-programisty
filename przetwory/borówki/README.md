@@ -68,7 +68,7 @@ Parametry:
 
 Obserwacje po tygodniu:
 - A: ciekawe, ale nie jest to jakiś przełom
-- B: w porządku.
+- B: w porządku, ale o dziwo chyba te z 2022 lepsze
 
 
 ### 2023

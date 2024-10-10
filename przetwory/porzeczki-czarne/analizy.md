@@ -30,6 +30,12 @@ Log
 zblendowane i ~zagotowane (termometr pokazał 90 stopni, regularnie bąbelkowały).
 Do szerokich słoików nawet dało radę je nalać, jak się to robiło ostrożnie. 
 
+Obserwacje:
+- wspaniałe! Nie za słodkie, nie za kwaśne. Bardzo porzeczkowe.
+- Ewentualnie można spróbować jeszcze trochę mniej cukru.
+- znajomi wyrywali nam je z rąk niemalże.
+
+
 ### 2022-07-16
 
 Z 8,9 kg owoców (po oczyszczeniu) wyszło 5,8 kg przecieru (2/3).

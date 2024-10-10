@@ -22,6 +22,17 @@ maliny+jeżyny
 - 340 g jeżyn + 320 g malin, 150 g cukru, 2 pł. łyżeczki pektyn. Zmiksowane i
   zagotowane. Czerwone zakrętki.
 
+
+Obserwacje po paru tygodniach:
+- partie A i B i tak smaczne
+- konsystencja A i B świetna
+- jeden słoik po jakimś czasie od otwarcia zaczął pleśnieć
+- partia A pyszna, wyraźnie kwaskowa ale nie za kwaśna, świetna żeby dodać np.
+  do naleśnika lub pieroga ze słodkim nadzieniem
+- partia B pyszna, słodka ale nie bardzo
+- ogólnie skłaniałbym się do proporcji 1:4 lub 1:5
+
+
 2023 jeżyny
 -----------
 
