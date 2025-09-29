@@ -1,6 +1,12 @@
 Babcia robi czasem maliny i/lub jeżyny przecierane ("galaretkę", bez pestek) -
 mi osobiście średnio leżą.
 
+2025 maliny+jeżyny
+------------------
+
+- 1kg malin, 1kg jeżyn, 0.5 kg cukru, 2 żelfixy, wg instrukcji na opakowaniu.
+
+
 2024 maliny
 -----------
 

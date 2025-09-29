@@ -1,5 +1,11 @@
 > TODO: wyodrębnić przepis z notatek.
 
+2025 borówki + maliny + jeżyny
+------------------------------
+
+- 600 g borówek, 400 g malin, 330 g jeżyn, 330 g cukru, 4 pł. łyżeczki pektyn
+
+
 2024 borówki + maliny
 ----------------------------
 
