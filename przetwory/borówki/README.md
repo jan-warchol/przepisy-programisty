@@ -86,10 +86,20 @@ Obserwacje:
 - B nalewa się znośnie, jakoś do mniejszych słoików wepchnąłem
 
 po roku:
-- Borówka 23B jest pyszna, bor23D smaczna ale za gęsta (23b lepsza)
+- Borówka 23B jest pyszna, 23D smaczna ale za gęsta (23b lepsza)
 - D bardzo podeszło Ani, mówi że dobrze się nadaje do użycia w wypiekach
   (nie robiła porównań)
 - C dobre, ale rzadkie
+
+po 2,5 roku:
+- A wodniste i moim zdaniem bardzo słabe, chociaż Irminie smakowało najbardziej
+  ze wszystkich (!) - zależało jej też na tym, żeby były mało słodkie.
+- C ujdzie, chociaż też dość rzadkie. Moim zdaniem zdecydowanie lepsze od A
+- D >= B. Ogólnie D i B niezłe, ale czuć że zleżałe.
+- C i D same z sobą trochę za słodkie, ale do chałki lub czegoś innego dobre
+  (lepsze niż A i B).
+- Na próbce D minimalne ślady pleśni.
+
 
 ### 2022
 
