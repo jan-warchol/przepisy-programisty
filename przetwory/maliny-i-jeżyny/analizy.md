@@ -38,6 +38,14 @@ Obserwacje po paru tygodniach:
 - partia B pyszna, słodka ale nie bardzo
 - ogólnie skłaniałbym się do proporcji 1:4 lub 1:5
 
+Obserwacje po 1.5 roku:
+- partia C w porównaniu do A i B wyraźnie bardziej straciła kolor i ma dużo
+  rzadszą konsystencję (A i B są sztywne, C półpłynna)
+- partia C jest już niedobra. Jeden słoik był jadalny, ale drugi już nie.
+- partie A i B pachną średnio, ziemiście, trochę jak maliny które są już bardzo
+  zleżałe. Ale są zjadliwe.
+- partia A lepsza od B. B jest za słodka.
+
 
 2023 jeżyny
 -----------

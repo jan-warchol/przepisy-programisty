@@ -15,6 +15,7 @@
 - partia B: do 450 g partii A dodane 50 g curku (wynikowa proporcja 1:3).
   Zagotowane ponownie. Złote zakrętki.
 
+
 2024 borówki + jeżyny
 ----------------------------
 
