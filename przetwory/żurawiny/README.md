@@ -8,6 +8,15 @@ Babcia robi żurawinę zasadniczo na dwa sposoby:
 - żurawina wymieszana z czymś innym w formie dżemu
 
 
+### 2025 żurawina cięta
+
+- Żurawinę umyć, odrzucić uszkodzone owoce (miękkie i cięższe niż woda)
+- Pociąć w szatkownicy od blendera na małe kawałki
+- wymieszać 1:1 z cukrem
+- odczekać chwilę żeby puściła sok
+- zagotować (?)
+
+
 ### 2022 żurawina z gruszką
 
 Partia A (zrobiona przez Babcię):
