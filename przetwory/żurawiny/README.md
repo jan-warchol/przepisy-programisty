@@ -47,3 +47,6 @@ wynik:
 - bardzo smaczne
 - mogłoby być, hmm, chyba nieco bardziej żurawinowe? Albo nieco mniej słodkie?
   Pamiętam że coś bym trochę zmienił ale nie pamiętam w którą stronę.
+
+Trwałość: wyśmienita - po 3.5 roku smakuje pysznie i nawet nie bardzo czuć
+że tyle czasu leżał.
