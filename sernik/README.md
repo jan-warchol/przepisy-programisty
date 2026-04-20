@@ -1,8 +1,8 @@
 Sernik puszysty Janka
 =====================
 
-_Przepis dedykuję firmie [CodiLime](https://www.codilime.com/),
-której dział HR sfinansował część badań nad nim._
+_Dedykowany firmie [CodiLime](https://www.codilime.com/),
+której dział HR sfinansował część badań nad przepisem._
 
 ![sernik](https://github.com/jan-warchol/przepisy-programisty/releases/download/v1.0-beta-photos/sernik.3.jpg)
 
