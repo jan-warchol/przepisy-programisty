@@ -47,6 +47,14 @@ Obserwacje po 1.5 roku:
 - partia A lepsza od B. B jest za słodka.
 
 
+Maliny+jeżyny - obserwacje po niecałych 2 latach:
+- przy degustacji bez dodatków czuć, że świetność mają za sobą.
+  Można zjeść, ale nie urywają.
+- na kanapce z wieluniem wciąż smakują bardzo dobrze
+- słodkość - chyba taka jak trzeba.
+- konsystencja idealna.
+
+
 2023 jeżyny
 -----------
 

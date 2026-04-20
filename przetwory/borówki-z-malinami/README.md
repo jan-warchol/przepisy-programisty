@@ -16,6 +16,13 @@
   Zagotowane ponownie. Złote zakrętki.
 
 
+Obserwacje po niecałych 2 latach:
+- przy degustacji bez dodatków czuć, że świetność mają za sobą.
+  Można zjeść, ale nie urywają.
+- na kanapce z wieluniem wciąż smakują bardzo dobrze
+- słodkość - raczej taka jak trzeba.
+- konsystencja minimalnie za gęsta.
+
 2024 borówki + jeżyny
 ----------------------------
 
