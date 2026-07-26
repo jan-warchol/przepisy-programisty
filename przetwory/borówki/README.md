@@ -57,6 +57,23 @@ Wariant odparowany: trzeba dobrać odpowiednią słodkość.
 Log
 ---
 
+### 2026-07-25
+
+Partia A. Parametry:
+
+- 1230 g borówki
+- 150 g cukru, głównie trzcinowego
+- 1 pł. łyżeczka pektyn
+- ~50 ml soku z cytryny (z ok. 1 1/4 cytryny)
+- łyżeczka pasty waniliowej
+- borówki częściowo rozgniecione przed gotowaniem (potem rozpadły się zupełnie)
+- gotowane ~25 minut, pozostało 1075 g (25% odparowania)
+
+Obserwacje od razu:
+
+- bardzo smaczne
+- następnego dnia płynne choć gęste
+
 
 ### 2024
 
