@@ -40,6 +40,29 @@ Odparowywać 1 kg przecieru, co jakiś czas wylewając łyżeczkę na spodek i s
 Log
 ---
 
+### 2026-07
+
+Partie A-E: przecier z białych porzeczek przygotowany u babci. Partia G: z
+całych owoców.
+
+Parametry:
+
+- (A) 33% odparowania, 50% cukru w gotowym dżemie
+- (B) 25% odparowania, 50% cukru w gotowym dżemie
+- (C) 33% odparowania, 33% cukru w gotowym dżemie
+- (D) 25% odparowania, 33% cukru w gotowym dżemie
+- (E 1-5) Odlewane przy okazji od poprzednich partii żeby sprawdzić ile
+  potrzeba pektyn i mieć porównanie z mniejszym odparowaniem (1/6). Cukier 1:2
+  na wejściu.
+  - E1: brak pektyn, zupełnie płynna
+  - E2: 1 1/4 pł. łyżeczki pektyn na kg, praktycznie bez różnicy do E1
+  - E3: 3 pł. łyżeczki na kg, prawie się ścieły ale jeszcze nie do końca
+  - E4: 6 1/2 pł. łyżeczki na kg
+  - E5: ?
+- (G) 430 g porzeczek, 210 g cukru, między 1/2 a 2/3 łyżeczki pektyn. Nieco
+  rozgniecione, gotowane aż odparowało 33%. Pozostały dość jasne.
+
+
 ### 2022 obserwacje i wnioski
 
 - D vs G: G jest moim zdaniem za mocne.
