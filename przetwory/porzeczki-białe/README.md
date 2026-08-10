@@ -62,6 +62,12 @@ Parametry:
 - (G) 430 g porzeczek, 210 g cukru, między 1/2 a 2/3 łyżeczki pektyn. Nieco
   rozgniecione, gotowane aż odparowało 33%. Pozostały dość jasne.
 
+#### Obserwacje po kilku tygodniach 
+
+- E 1,2: meh
+- E3: konsystencja ciapkowata. w smaku nie jest zła, ale też nic specjalnego.
+- E4: ścięta aż za bardzo, w smaku jak E3.
+- G: za gęste. Wyraźnie czuć pestki. W smaku całkiem spoko, bardzo zbliżone do samych owoców.
 
 ### 2022 obserwacje i wnioski
 
