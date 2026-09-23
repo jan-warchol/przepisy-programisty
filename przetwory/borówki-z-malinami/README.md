@@ -1,5 +1,17 @@
 > TODO: wyodrębnić przepis z notatek.
 
+
+2026 borówki + maliny
+---------------------
+
+- (A) 880 g malin, 1760 g borówek (2:1), 600 g cukru, 9 pł łyżeczek pektyn
+- (B) 1600 g zmiksowanej borówki, 500 g rozgniecionych malin, 420 g cukru (1:5), 2 dżemiksy
+
+obserwacje na świeżo:
+
+- A jest chyba trochę za słodkie.
+
+
 2025 borówki + maliny + jeżyny
 ------------------------------
 

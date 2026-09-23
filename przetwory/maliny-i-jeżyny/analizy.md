@@ -1,6 +1,25 @@
 Babcia robi czasem maliny i/lub jeżyny przecierane ("galaretkę", bez pestek) -
 mi osobiście średnio leżą.
 
+2026-08
+-------
+
+maliny+jeżyny
+
+- (A) 900 g malin, 1200 g jeżyn, 2 dżemiksy, 525 g cukru (1:4)
+
+maliny:
+
+- (A) chyba z cukrem 1:4?
+- (B) 150 g malin, 35 g cukru, 3/4 małej miarki pektyn
+- (C) 730 g rozgniecionych malin żółtych, 180 g cukru trzcinowego (1:4), 3 małe miarki pektyn
+
+obeserwacje na świeżo:
+
+- maliny A pycha
+- maliny C pycha
+- maliny+jeżyny pycha
+
 2025 maliny+jeżyny
 ------------------
 

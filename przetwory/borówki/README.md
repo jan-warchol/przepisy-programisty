@@ -57,6 +57,24 @@ Wariant odparowany: trzeba dobrać odpowiednią słodkość.
 Log
 ---
 
+### 2026-08
+
+Partia 1 (2,8 kg borówek, 400 g cukru, 3 pł. łyżeczki pektyn, odparowanie 33%):
+
+- (B) po prostu
+- (C) dodany 1 kwasek cytrynowy - 20 g na 1 kg (chyba masy razem z cukrem i po odparowaniu)
+- (D) 3/4 łyżeczki mielonego imbiru na 300 g
+
+partia 2 (1 pł. łyżeczka pektyn na 1750 g owoców, cukier 1:5, odparowanie ok. 15%)
+
+- (E) 1 1/2 małej miarki mielonego imbiru na 1 kg odparowanej masy
+- (F) 1 1/6 małej miarki mielonego cynamony na ~800 k odparowanej masy
+
+obserwacje na świeżo:
+
+- B trochę za rzadkie
+
+
 ### 2026-07-25
 
 Partia A. Parametry:
@@ -73,6 +91,7 @@ Obserwacje od razu:
 
 - bardzo smaczne
 - następnego dnia płynne choć gęste
+- jakoś latwo się psuje - 2 słoiki zapleśniały (z 6?)
 
 
 ### 2024
