@@ -1,6 +1,16 @@
 Babcia robi czasem maliny i/lub jeżyny przecierane ("galaretkę", bez pestek) -
 mi osobiście średnio leżą.
 
+Do sprawdzenia
+--------------
+
+maliny będą się do tego dobrze nadawać, bo widać starzenie po kolorze.
+
+  - Wpływ ilości powietrza na degradację 
+  - Porównać degradację z dzemiksem
+  - Sprawdzić czy dodanie kwasku cytrynowego pomaga
+
+
 2026-08
 -------
 
@@ -24,6 +34,8 @@ obeserwacje na świeżo:
 ------------------
 
 - 1kg malin, 1kg jeżyn, 0.5 kg cukru, 2 żelfixy, wg instrukcji na opakowaniu.
+
+obserwacje po roku: nadal dobre, konsystencja bardzo dobra.
 
 
 2024 maliny

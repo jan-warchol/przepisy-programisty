@@ -33,9 +33,16 @@ Obserwacje zaraz po zrobieniu:
 - konsystencja C też w sam raz
 - różnica w smaku między B i C nieduża. Na słodko chyba trochę lepsze są C, a do sera chyba B.
 - E najbardziej przypomina surowe owoce, ale i tak jest wyraźnie od nich słodsza.
+- ogólnie E całkiem niezłe, choć bez szału.
 - do sera chyba najlepsza jest E, ale trudno powiedziec czy to kwestia całych owoców
   czy mniejszej ilości cukru.
+- C dobre do bursztyna, raczej lepsze niż B
 
+Obserwacje po 2 miesiącach:
+
+- A prawie płynna, B dość mocno ścięta. Porównując, A wydaje się bardziej kwaśna
+  i bardziej owocowa od B. Obie intensywne, B wydaje się że mogłaby być ciut
+  mniej słodka. Obie pasują do Old Amsterdama z chałką.
 
 2019-07-13
 ----------

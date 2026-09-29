@@ -65,9 +65,19 @@ Parametry:
 #### Obserwacje po kilku tygodniach 
 
 - E 1,2: meh
-- E3: konsystencja ciapkowata. w smaku nie jest zła, ale też nic specjalnego.
-- E4: ścięta aż za bardzo, w smaku jak E3.
-- G: za gęste. Wyraźnie czuć pestki. W smaku całkiem spoko, bardzo zbliżone do samych owoców.
+- E3: konsystencja ciapkowata.
+- E4: ścięta aż za bardzo, w smaku jak E3. Przegrywa z 22G i 26G
+- E 1-4: w smaku niespecjalne.
+- G: za gęste. Wyraźnie czuć pestki. Być może lepiej byłoby zblendować,
+  dokładniej rozgnieść albo dłużej gotować.
+  W smaku całkiem spoko, bardzo zbliżone do samych owoców. Niezłe do Bursztyna.
+  Dobre do Brie (jadłem z dość młodym)
+- A i B mocno ścięte.
+- A vs B:
+  - do łagodnego sera pleśniowego: obie dobrze pasują, różnica niewielka.
+    Być może optimum jest pomiędzy nimi.
+  - do Old Amsterdama: oba dajne, A chyba trochę lepsze
+
 
 ### 2022 obserwacje i wnioski
 

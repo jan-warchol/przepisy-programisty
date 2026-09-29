@@ -15,6 +15,7 @@ Różne uwagi
 - słoiki wygodnie myje się w zmywarce (wchodzi 50-60 szt.), ale w przypadku zakrętek nie ma to raczej sensu bo spadają (lepiej w garnku).
 - należy mieć przygotowany spirytus do wycierania krawędzi słoików jak się upaprają podczas nalewania. To jednak jest konkretny problem.
 - wydaje się że lepiej zakręcać zaraz po nalaniu, a nie nalewać całą partię i potem zakręcać. Słoiki robią się mniej gorące, no i lepiej się zasysa.
+- 10 pł. łyzeczek (tych co zawsze do tej pory używałem) pektyn to 7 miarek "płaska łyżeczka", które mają 4.5 ml.
 
 Przygotowanie - ogólne wskazówki
 --------------------------------

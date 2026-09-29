@@ -10,6 +10,8 @@
 obserwacje na świeżo:
 
 - A jest chyba trochę za słodkie.
+- w B całkiem wyraźnie czuć maliny, tzn. smakuje zdecydowanie inaczej niż same
+  borówki. Na słodkość raczej ok.
 
 
 2025 borówki + maliny + jeżyny
