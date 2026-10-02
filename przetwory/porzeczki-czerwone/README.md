@@ -40,11 +40,16 @@ Obserwacje zaraz po zrobieniu:
 
 Obserwacje po 2 miesiącach:
 
-- A prawie płynna, B dość mocno ścięta. Porównując, A wydaje się bardziej kwaśna
-  i bardziej owocowa od B. Obie intensywne, B wydaje się że mogłaby być ciut
-  mniej słodka. Obie pasują do Old Amsterdama z chałką; ale kiedy póżniej spróbowałem
-  z innym pieczywem, to A wygrała - była bardziej podobna do świeżych owoców.
-  Konsystencja pomiędzy, ale trochę bliżej A niż B.
+- A vs B
+  - A prawie płynna, B dość mocno ścięta.
+  - Porównując, A wydaje się bardziej kwaśna
+    i bardziej owocowa od B. Obie intensywne, B wydaje się że mogłaby być ciut
+    mniej słodka.
+  - Obie pasują do Old Amsterdama z chałką; ale kiedy póżniej spróbowałem
+    z innym pieczywem, to A wygrała - była bardziej podobna do świeżych owoców.
+    Konsystencja pomiędzy, ale trochę bliżej A niż B.
+  - do Roucoulon (pleśniowy) z kolei bardziej pasuje B, i właśnie dobrze, że jest
+    słodsze.
 
 2019-07-13
 ----------
