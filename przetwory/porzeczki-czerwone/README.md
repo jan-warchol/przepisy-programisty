@@ -50,6 +50,9 @@ Obserwacje po 2 miesiącach:
     Konsystencja pomiędzy, ale trochę bliżej A niż B.
   - do Roucoulon (pleśniowy) z kolei bardziej pasuje B, i właśnie dobrze, że jest
     słodsze.
+  - obie pasują do gruyere'a
+  - średnio pasują do st. Andre (za bardzo podbijają gorycz)
+  - obie pasują do bursztyna
 
 2019-07-13
 ----------

@@ -77,6 +77,9 @@ Parametry:
   - do łagodnego sera pleśniowego: obie dobrze pasują, różnica niewielka.
     Być może optimum jest pomiędzy nimi.
   - do Old Amsterdama: oba dajne, A chyba trochę lepsze
+  - do gruyere'a raczej nie
+  - do st. Andre w miarę, raczej A
+  - do Bursztyna: oba fajne, B chyba trochę lepsze
 
 
 ### 2022 obserwacje i wnioski
