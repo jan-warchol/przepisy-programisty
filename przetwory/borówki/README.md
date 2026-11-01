@@ -74,6 +74,9 @@ obserwacje na świeżo:
 
 - B trochę za rzadkie
 
+na jesieni:
+
+- jeden nasz słoik partii E zaczął pleśnieć... 
 
 ### 2026-07-25
 
@@ -93,6 +96,9 @@ Obserwacje od razu:
 - następnego dnia płynne choć gęste
 - jakoś latwo się psuje - 2 słoiki zapleśniały (z 6?)
 
+Po 3 mcach:
+
+- Ania otworzyła słoiczek i od razu pół zjadła :)
 
 ### 2024
 

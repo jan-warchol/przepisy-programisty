@@ -81,6 +81,9 @@ Parametry:
   - do st. Andre w miarę, raczej A
   - do Bursztyna: oba fajne, B chyba trochę lepsze
 
+#### Obserwacje po kilku miesiącach
+
+- 26E5 - za rzadka, za kwaśna i ogólnie meh.
 
 ### 2022 obserwacje i wnioski
 

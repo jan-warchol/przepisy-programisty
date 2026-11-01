@@ -54,6 +54,10 @@ Obserwacje po 2 miesiącach:
   - średnio pasują do st. Andre (za bardzo podbijają gorycz)
   - obie pasują do bursztyna
 
+Obserwacje - listopad
+
+- E nie zachwyca, przynajmniej do saint andre albo typowego żółtego sera.
+
 2019-07-13
 ----------
 
