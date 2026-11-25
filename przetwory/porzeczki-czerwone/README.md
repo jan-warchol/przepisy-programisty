@@ -57,6 +57,11 @@ Obserwacje po 2 miesiącach:
 Obserwacje - listopad
 
 - E nie zachwyca, przynajmniej do saint andre albo typowego żółtego sera.
+- B vs C:
+  - C wyraźnie bardziej podobna do świeżych owoców, bardziej wyrazisty smak, raczej lepsza
+  - C i o dziwo wydaje się mniej słodka
+  - do Roucoulon obie podobnie dobre
+  - konsystencja C w sam raz, B ok (trochę za gęsta)
 
 2019-07-13
 ----------
